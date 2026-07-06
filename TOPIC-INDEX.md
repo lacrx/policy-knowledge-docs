@@ -2,6 +2,12 @@
 
 # Topic Index
 
+## active-transport / bike-infrastructure / economic-impact / obstruction-patterns
+
+**bike-lane-economic-impact** → [bike-lane-economic-impact](articles/active-transport/bike-lane-economic-impact.md)
+Skills: evaluate-bike-lane-claim
+Aliases: bike lane business impact, bike lanes kill businesses, parking removal retail sales, cycling economic impact, merchant perception gap
+
 ## ca-housing-law / rhna-compliance / sb-79 / density-bonus / housing-element / adu-law / obstruction-patterns
 
 **ca-housing-enforcement** → [ca-housing-enforcement](articles/ca-housing-law/ca-housing-enforcement.md)
