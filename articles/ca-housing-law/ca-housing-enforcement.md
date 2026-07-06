@@ -20,7 +20,7 @@ aliases:
   - sb 79 compliance
 related:
   - fiscal-productivity
-last-updated: 2026-06-28
+last-updated: 2026-07-06
 ---
 
 # California Housing Law — Enforcement & Legal Exposure
@@ -85,7 +85,7 @@ Court-ordered compliance / rezoning
 **Housing Element noncompliance:**
 - Loss of Prohousing Designation (affects grant eligibility)
 - Builder's Remedy activated (city loses ability to deny projects with affordable units)
-- AB 1398: must complete rezoning within 1 year of deadline or face ministerial approval of compliant projects
+- AB 1398: must complete rezoning within 1 year of deadline or face ministerial approval of compliant projects. See [rezoning-compliance](rezoning-compliance.md) for deadline mechanics and Brisbane Baylands case study
 - SB 35 streamlining triggered for cities behind RHNA
 
 **SB 79 noncompliance (after Jan 1, 2027):**
