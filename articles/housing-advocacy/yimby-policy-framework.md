@@ -22,7 +22,7 @@ related:
   - montreal-housing-model
   - south-korea-housing-model
   - ca-housing-enforcement
-last-updated: 2026-07-13
+last-updated: 2026-07-14
 ---
 
 # YIMBY Policy Framework — Official Positions and Internal Nuance
@@ -103,6 +103,31 @@ CA YIMBY's legislative arm has sponsored social housing bills while its research
 
 ---
 
+## California's Post-Legalization Feasibility Era (2025-2026)
+
+Gray's 2025 "Where Are All the Cranes?" piece marked a pivot: the YIMBY movement's legalization wins (SB 9, SB 10, SB 35, AB 2097, ADU reform) were necessary but not sufficient. Permitting was legal but construction wasn't penciling out — impact fees, financing costs, and regulatory compliance made projects financially infeasible even where zoning allowed them.
+
+The state's response arrived in AB 179 (signed July 2026), which directly targets the feasibility gap:
+
+| Reform | Detail |
+|--------|--------|
+| Impact fee + financing reform | Estimated $60,000-$70,000/unit cost reduction |
+| One-Stop Shop | Streamlines project delivery, reduces duplicative reviews |
+| Enhanced state LIHTC | $500 million for low-income housing tax credits |
+| Multifamily Housing Program | $200 million for affordable multifamily production |
+| Disaster Rebuilding Fund | $100 million to reduce rebuilding financing costs |
+| HHAP extension | $900 million homelessness block grants with local matching and prohousing requirements for cities >300K |
+
+**Results through 2024**: 59% increase in residential construction (70,000→111,000 homes/year), 57% reduction in approval timelines (160→68 days), 682,000+ homes built since 2019.
+
+### What AB 179 gets right
+The feasibility focus validates the YIMBY sequencing thesis: legalize first (done), then make it pencil (happening now). $60-70K/unit savings is the kind of concrete cost reduction that changes what actually gets built vs. what stays on paper.
+
+### What AB 179 still misses
+All funding is discretionary appropriations — no dedicated revenue stream. Per our five-pillar framework, this is structurally fragile. Finland's 2025 Housing First reversal (+20% homelessness after austerity cuts) is the direct warning: when budgets tighten, discretionary housing money disappears first. No public land banking, no institutional nonprofit developer framework, no earmarked revenue equivalent to Vienna's payroll levy. California is building the house without pouring the foundation.
+
+---
+
 ## Where YIMBY Matches and Misses the Vienna Model
 
 ### Matches
@@ -170,3 +195,4 @@ Using this project's ACTIONS OVER WORDS scoring framework:
 - Gray, M.N. (2025). "Supply and the Housing Crisis: A Debate." *Dissent Magazine*.
 - Gray, M.N. & Marohn, C. (2023). Debate: Strong Towns & YIMBY Approaches. Building Culture Podcast #29.
 - California YIMBY 2023-2024 Legislative Agenda. cayimby.org
+- Office of Governor Gavin Newsom (2026-07-13). "More Housing, Faster: Governor Newsom Signs Historic Housing Affordability Reforms." gov.ca.gov
