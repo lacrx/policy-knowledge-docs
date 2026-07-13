@@ -14,6 +14,12 @@ Aliases: apartment safety, multi-family fire safety, surfside condo collapse, bu
 Skills: draft-pra-request
 Aliases: california housing law, haa enforcement, housing accountability act, builders remedy, sb 79 compliance
 
+## fiscal-policy / land-value-tax / housing-finance / property-tax-reform / georgism / anti-speculation
+
+**land-value-tax** → [land-value-tax](articles/fiscal-policy/land-value-tax.md)
+Skills: _(none)_
+Aliases: lvt, land tax, split-rate property tax, georgist tax, henry george tax, site value tax
+
 ## housing-advocacy / housing-policy / social-housing / zoning-reform / tenant-protections / housing-supply / construction-costs / public-land-banking
 
 **complete-housing-position** → [complete-housing-position](articles/housing-advocacy/complete-housing-position.md)

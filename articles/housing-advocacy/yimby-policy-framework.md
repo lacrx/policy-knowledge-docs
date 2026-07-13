@@ -111,7 +111,7 @@ CA YIMBY's legislative arm has sponsored social housing bills while its research
 - Some social housing support (Montgomery County model)
 
 ### Gaps
-- No dedicated housing tax (Vienna's 1-1.5% payroll levy)
+- No dedicated housing revenue (Vienna's 1-1.5% payroll levy). Split-rate land value taxation would pair naturally with YIMBY zoning reform — directly incentivizing development while funding institutional housing — but is not on the YIMBY legislative agenda. See land-value-tax.
 - No public land banking (Wohnfonds Wien)
 - No institutional nonprofit developer ecosystem (GBVs with equity lock-in)
 - No cost-covering rent principle (Kostenmiete)

@@ -22,6 +22,7 @@ aliases:
 related:
   - vienna-model
   - yimby-policy-framework
+  - land-value-tax
   - building-safety-by-type
 last-updated: 2026-07-13
 ---
@@ -99,18 +100,40 @@ Income caps set high enough to include middle class. No re-testing once housed. 
 
 *The part nobody in US politics wants to talk about.*
 
-### Revenue Options (not mutually exclusive)
+### Recommended Primary Mechanism: Split-Rate Land Value Tax
 
-| Mechanism | Model | Pros | Cons |
-|-----------|-------|------|------|
-| Payroll levy | Vienna (1-1.5% employer/employee) | Stable, broad base, proven | Regressive without exemptions |
-| Land value tax | Georgist economics | Encourages development, penalizes speculation | Politically difficult, assessment challenges |
-| Transfer tax surcharge | Non-primary-residence transactions | Directly targets speculation | Narrow base, volatile |
+A land value tax (LVT) taxes the unimproved value of land — location value created by public infrastructure and community activity — while exempting buildings and improvements. It is the economically optimal mechanism for housing revenue because it directly reinforces Pillar 1:
+
+- **Incentivizes development.** You pay the same land tax whether your lot holds a parking lot or a 20-story building. Building more doesn't increase your tax. Conventional property tax penalizes improvement; LVT rewards it.
+- **Penalizes speculation.** Holding vacant or underdeveloped land becomes expensive. Use it or sell to someone who will.
+- **Captures publicly-created value.** Transit investment, parks, schools — all raise land values. LVT recaptures that value for public use instead of letting it accrue as windfall profit to landowners.
+- **Non-distortionary.** Land supply is fixed. A tax on land value has zero deadweight loss (near-universal economist consensus). Milton Friedman: "the least bad tax."
+- **Cannot be passed to tenants.** Market rent is set by demand, not landlord costs. The tax comes out of the landlord's economic rent — the unearned increment from location.
+
+The split-rate approach (tax land at a higher rate than buildings) is proven in Pennsylvania — Harrisburg's 6:1 split-rate correlated with vacant structures dropping from 4,200 to under 500 and $1.2B in new investment over 12 years. It uses existing assessment infrastructure and avoids the pure-LVT valuation challenges that killed Britain's 1910 attempt.
+
+**Implementation path**: Phase in gradually (2:1 → 4:1 → 6:1 land-to-improvement ratio over a decade). Coordinate across all taxing jurisdictions (city, county, school district) to avoid the Altoona problem where city-level LVT was diluted by conventional taxes at other levels. Add circuit-breaker provisions for cash-poor owner-occupants. Dedicate incremental revenue above baseline to housing trust funds.
+
+**Critical pairing**: LVT without zoning reform is pressure with no release valve — Britain's 1910 experience, where construction actually dropped because builders couldn't legally build more. LVT with zoning reform (Pillar 1) is maximum incentive: legal permission to build densely + fiscal pressure to do so. Neither works as well alone.
+
+See: land-value-tax for full evidence, failure modes, and implementation detail.
+
+### Complementary Mechanism: Broad-Base Housing Levy
+
+LVT alone may not reach the 0.15-0.25% of GDP scale target. A complementary broad-base mechanism fills the gap:
+
+| Mechanism | Model | Role |
+|-----------|-------|------|
+| Payroll levy | Vienna (1-1.5% employer/employee) | Stable, proven, administratively trivial. Funds institutional housing production at state/federal level. |
+| Transfer tax surcharge | Non-primary-residence transactions | Directly targets speculation. Supplements LVT in capturing windfall from flips and investor purchases. |
+
+Vienna chose the payroll levy over LVT because it is simpler, familiar, and politically uncontroversial in Austria's corporatist context. The US lacks that context, but a dedicated housing surcharge on existing payroll mechanisms (similar in structure to Medicare tax) would be administratively straightforward.
 
 ### Design Principles
 - **Earmarked and protected.** Housing money cannot be raided for other priorities. Vienna's system survives budget fights because housing funding is structurally independent.
 - **Scale target**: 0.15-0.25% of GDP. Austria spends 0.25% ($51B equivalent for US GDP). Current US federal housing spending (~$50B) goes mostly to LIHTC and Section 8 — almost none to new production.
 - **LIHTC comparison**: LIHTC produces housing at roughly twice the per-unit cost of direct public construction due to tax credit syndication overhead, investor profit requirements, and compliance costs. Dedicated direct funding is more efficient.
+- **Dual mechanism logic**: Split-rate LVT at municipal level (development incentive + local revenue) paired with housing levy at state/federal level (institutional production funding). Each does what the other can't — LVT shapes behavior, the levy funds institutions.
 
 ---
 
@@ -166,14 +189,15 @@ Income caps set high enough to include middle class. No re-testing once housed. 
 | Eliminate parking minimums | +2 | Remove barriers |
 | State preemption | +2 | Support state mandates |
 | Single-stair legalization | +2 | Approve housing projects / enable code reform |
+| Split-rate LVT | +1 | Incentivizes development, penalizes speculation, captures public value |
+| Dedicated housing levy | +1 | Stable institutional production funding |
 | Rent stabilization | +1 | Tenant protection |
 | Just-cause eviction | +1 | Tenant protection |
 | Public land banking | +1 | Enable public development |
 | Limited-profit housing associations | +1 | New institutional form for production |
-| Dedicated housing revenue | +1 | Dedicated funding stream |
 | Impact fee reform | +1 | Streamline approvals / reduce costs |
 | Anti-speculation taxes | +1 | Market-shaping for access |
-| **Net** | **+16** | **Grade: A** |
+| **Net** | **+17** | **Grade: A** |
 
 ---
 
@@ -201,6 +225,9 @@ The position that produces the best outcomes — supply + institutions + dedicat
 - Sitaraman, G. & Serkin, C. (2025). "Post-Neoliberal Housing Policy." *U. Pa. L. Rev.* (forthcoming).
 - Gowan, P. & Cooper, R. (2018). "Social Housing in the United States." People's Policy Project.
 - Peter, T. (2023). "Does Social Housing Actually Work?" AEI Housing Center.
+- George, H. (1879). *Progress and Poverty.* Robert Schalkenbach Foundation.
+- Plassmann, F. & Tideman, N. (2000). "Effect of Two-Rate Property Taxes on Construction." *Journal of Urban Economics*, 47(2).
+- Oates, W. & Schwab, R. (1997). "The Impact of Urban Land Taxation." *Regional Science and Urban Economics*, 27(6).
 - California YIMBY Policy Framework, Chapter 2 (2024).
 - Grounded Solutions Network (2026). Policy Priorities.
 - NFPA (2024). "Home Structure Fires."

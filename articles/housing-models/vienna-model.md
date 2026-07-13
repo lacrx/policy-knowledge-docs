@@ -69,7 +69,7 @@ Austria is a center-right country (OVP/FPO coalition nationally). Vienna is gove
 Vienna allows density. No American-style exclusionary zoning. No "community character" objections blocking projects. No discretionary review gauntlet. This is the foundation — without it, the institutional framework has nothing to build.
 
 ### Dedicated revenue stream
-The payroll tax provides stable, predictable funding independent of annual budget fights. Housing investment doesn't compete with schools, roads, or police for appropriations.
+The payroll tax provides stable, predictable funding independent of annual budget fights. Housing investment doesn't compete with schools, roads, or police for appropriations. Vienna chose the payroll levy over alternatives like land value taxation for simplicity and political feasibility within Austria's corporatist Sozialpartnerschaft. A land value tax would be more economically efficient (zero deadweight loss, directly incentivizes development) but harder to implement — see land-value-tax for the tradeoff analysis.
 
 ### Institutional continuity
 GBVs have existed for decades. They have construction expertise, maintenance capacity, and tenant relationships that cannot be conjured from legislation. The Vermoegensbindung prevents extraction and ensures institutional longevity.
@@ -119,7 +119,7 @@ Technically true by financing structure. Misleading in practice — 80% of new c
 ### What could transfer
 - **Public land banking**: Acquiring and holding land for housing development. No constitutional barrier in the US.
 - **Limited-profit institutional form**: Nonprofits with equity lock-in. Closest US analog: community land trusts, but at much smaller scale.
-- **Dedicated housing revenue**: Payroll tax or other earmarked source. Politically difficult but legally possible.
+- **Dedicated housing revenue**: Vienna uses a payroll levy; a US adaptation could use split-rate land value taxation (economically superior, proven in Pennsylvania, directly incentivizes development) paired with a broad-base housing levy. The principle — earmarked, protected revenue independent of annual budget fights — transfers even if the specific mechanism differs. See land-value-tax.
 - **Quality competitions for public land**: Award land to best design, not highest bidder.
 - **Mixed-income mandates**: No means-testing for subsidized housing. Reduces stigma, builds political coalition.
 
