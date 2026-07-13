@@ -53,6 +53,11 @@ No single US advocacy organization currently holds the policy position best supp
 - Sitaraman & Serkin's "Post-Neoliberal Housing Policy" institutional proposals (Vanderbilt/Penn Law Review, 2025)
 - People's Policy Project social housing research (Bruenig, Gowan & Cooper)
 - Grounded Solutions Network community land trust model (equity lock-in at institutional scale)
+- Japan's supply-only proof-of-concept (affordable on average, no equity floor — see japan-housing-model)
+- Singapore's universal public ownership model (91% homeownership, 84% in bottom decile — see singapore-hdb-model)
+- Montreal's supply elasticity + soft rent control coexistence (see montreal-housing-model)
+- South Korea's demand-only intervention failure (25 policies, prices doubled — see south-korea-housing-model)
+- Finland's Housing First success and austerity reversal (see finland-housing-model)
 - Failure modes of every partial approach (NYCHA, filtering-only, supply-skepticism)
 
 ---
@@ -85,7 +90,7 @@ New US institutional form modeled on Austria's GBVs (Gemeinnuetzige Bauvereinigu
 The 1998 law caps public housing units at 1999 levels. Repealing it allows new public construction for the first time in 25 years.
 
 ### Public Land Banks
-Every major metro should have one. Acquire land proactively. Award parcels via quality competitions (design, sustainability, community integration) — not price auctions. Vienna's Wohnfonds Wien holds 2.9M m2 in reserves. American cities hold almost nothing.
+Every major metro should have one. Acquire land proactively. Award parcels via quality competitions (design, sustainability, community integration) — not price auctions. Vienna's Wohnfonds Wien holds 2.9M m2 in reserves. Helsinki owns ~70% of its city land and leases (not sells) to developers with binding affordability conditions — see finland-housing-model. Singapore's government owns ~90% of land (though via compulsory acquisition powers no democracy could replicate). American cities hold almost nothing.
 
 ### Cost-Covering Rent (Kostenmiete)
 For publicly supported housing: rents cover construction debt service + maintenance + reserves. No more, no less.
@@ -93,6 +98,7 @@ For publicly supported housing: rents cover construction debt service + maintena
 - Not market pricing (extractive — defeats the purpose)
 - As construction debt is repaid, rents decline and freed capital funds new construction
 - This is the **revolving fund** that makes the system self-sustaining
+- Proven independently in both Vienna (GBV Kostenmiete) and Finland (ARA cost-price principle) — two different countries, same mechanism, same results. See vienna-model and finland-housing-model.
 
 ### Mixed-Income, No Means-Testing
 Income caps set high enough to include middle class. No re-testing once housed. Professors and janitors in the same building.
@@ -148,11 +154,12 @@ Vienna chose the payroll levy over LVT because it is simpler, familiar, and poli
 
 | Policy | Rationale |
 |--------|-----------|
-| Rent stabilization | Smooth price shocks. Not hard freezes (those reduce maintenance and new supply). Annual increase caps tied to inflation + maintenance costs. |
+| Rent stabilization | Smooth price shocks. Not hard freezes (those reduce maintenance and new supply). Annual increase caps tied to inflation + maintenance costs. Quebec's TAL model (guideline-based, tenant right-to-refuse, independent tribunal) maintained rental construction above Ontario's per capita rate over two decades while protecting tenants — see montreal-housing-model. |
 | Just-cause eviction | Landlords need a legitimate reason to evict. Prevents retaliatory and no-fault displacement. |
 | Right to counsel | State-funded eviction defense attorneys. Massively reduces wrongful evictions. |
 | Ban algorithmic rent-setting | RealPage-style landlord coordination is cartel behavior. Enforce antitrust. |
 | Landlord registries | Transparency on ownership, violations, eviction rates. Enables enforcement. |
+| No vacancy decontrol | When tenants leave, landlords must disclose prior rent; new tenants can challenge excessive increases. Quebec's system (no vacancy decontrol) vs. Ontario (full vacancy decontrol) is the clearest natural experiment: Ontario turnover units saw 35.6% average rent increases in 2022-2023. |
 | Vacancy taxes | Holding units empty in a housing crisis is antisocial. Vancouver and Melbourne models. |
 | Anti-speculation taxes | Higher transfer taxes on second homes, short-term flips, institutional bulk purchases. Not banning investment — making speculation more expensive than building. |
 

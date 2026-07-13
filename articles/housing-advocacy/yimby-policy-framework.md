@@ -19,6 +19,8 @@ aliases:
 related:
   - vienna-model
   - japan-housing-model
+  - montreal-housing-model
+  - south-korea-housing-model
   - ca-housing-enforcement
 last-updated: 2026-07-13
 ---
@@ -70,7 +72,7 @@ This tier is where YIMBY organizational positions diverge most from the popular 
 
 | Position | Detail |
 |----------|--------|
-| Rent stabilization | CA YIMBY supported the Tenant Protection Act of 2019 — statewide rent stabilization and just-cause eviction protections. |
+| Rent stabilization | CA YIMBY supported the Tenant Protection Act of 2019 — statewide rent stabilization and just-cause eviction protections. Montreal's TAL system proves soft rent control can coexist with high supply: Quebec's rental starts per capita exceeded Ontario's over two decades (C.D. Howe). See montreal-housing-model. |
 | Right to counsel | State-funded eviction defense attorneys for tenants. |
 | Rental registry | Statewide standardized data collection on rental markets. |
 | Evictions dashboard | Track filings and lockouts statewide. |
@@ -138,7 +140,7 @@ The American supply-skeptic left (DSA housing caucuses, some tenant unions) cate
 | Entry costs | Free at point of use | ~$38,000 entry fees |
 | Institutional form | Government-owned (NYCHA model) | Limited-profit nonprofits (GBVs) |
 
-**Verdict**: YIMBY is closer to Vienna's foundation (build massively, allow density). The supply-skeptic left actually contradicts Vienna's most important mechanism — it wants Vienna's outputs without accepting Vienna's inputs.
+**Verdict**: YIMBY is closer to Vienna's foundation (build massively, allow density). The supply-skeptic left actually contradicts Vienna's most important mechanism — it wants Vienna's outputs without accepting Vienna's inputs. South Korea provides the starkest warning: 25 demand-side interventions with zero supply expansion doubled Seoul apartment prices and contributed to the world's lowest fertility rate (0.75). See south-korea-housing-model.
 
 ---
 

@@ -21,6 +21,8 @@ aliases:
 related:
   - complete-housing-position
   - vienna-model
+  - japan-housing-model
+  - south-korea-housing-model
   - fiscal-productivity
 last-updated: 2026-07-13
 ---
@@ -132,6 +134,12 @@ The split-rate approach sidesteps the worst of the valuation problem. You don't 
 ---
 
 ## LVT and Housing Policy
+
+### Alternative anti-speculation mechanisms
+
+Japan achieves LVT's anti-speculation effect through a completely different mechanism: housing depreciation at ~6%/year (vs. US ~1%). This makes housing a poor investment vehicle, channeling capital elsewhere. But it costs ~4% of GDP annually in destroyed housing value and generates enormous construction waste. LVT achieves the same behavioral outcome (penalizing unproductive land holding, discouraging speculation) at near-zero economic cost. Japan's depreciation is the expensive version of what LVT does cheaply. See japan-housing-model.
+
+South Korea demonstrates what happens with NO anti-speculation mechanism. Gap investment (갭투자) — leveraged speculation using tenant jeonse deposits — fueled a cycle that doubled Seoul apartment prices (2017-2022), produced 38,503 fraud victims, and contributed to the world's lowest fertility rate. A split-rate LVT would have made holding underdeveloped property expensive, reducing the speculative incentive at the root of the crisis. See south-korea-housing-model.
 
 ### Synergy with zoning reform
 

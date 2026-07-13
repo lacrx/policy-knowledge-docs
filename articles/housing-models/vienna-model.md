@@ -78,7 +78,7 @@ The payroll tax provides stable, predictable funding independent of annual budge
 GBVs have existed for decades. They have construction expertise, maintenance capacity, and tenant relationships that cannot be conjured from legislation. The Vermoegensbindung prevents extraction and ensures institutional longevity.
 
 ### Mixed-income design
-No poverty concentration. No stigma. Broad political support because the middle class benefits directly.
+No poverty concentration. No stigma. Broad political support because the middle class benefits directly. Singapore's HDB achieves the same result through ownership rather than rental — 91% homeownership with 84% in the bottom decile, plus mandatory ethnic integration quotas at the block level. Both systems survive politically because they're universal, not targeted. See singapore-hdb-model.
 
 ### Scale
 ~43% of all housing is directly public or limited-profit. This is not a marginal program — it sets the market. Private landlords compete against a massive non-market sector, which disciplines private rents.
@@ -120,8 +120,8 @@ Technically true by financing structure. Misleading in practice — 80% of new c
 ## Transferability Assessment
 
 ### What could transfer
-- **Public land banking**: Acquiring and holding land for housing development. No constitutional barrier in the US.
-- **Limited-profit institutional form**: Nonprofits with equity lock-in. Closest US analog: community land trusts, but at much smaller scale.
+- **Public land banking**: Acquiring and holding land for housing development. No constitutional barrier in the US. Helsinki owns ~70% of its city land and uses it identically — lease to developers with quality/affordability conditions. See finland-housing-model.
+- **Limited-profit institutional form**: Nonprofits with equity lock-in. Closest US analog: community land trusts, but at much smaller scale. Finland's ARA/Varke system uses the same cost-price rent principle (Kostenmiete) independently — proving the mechanism works across different institutional contexts. See finland-housing-model.
 - **Dedicated housing revenue**: Vienna uses a payroll levy; a US adaptation could use split-rate land value taxation (economically superior, proven in Pennsylvania, directly incentivizes development) paired with a broad-base housing levy. The principle — earmarked, protected revenue independent of annual budget fights — transfers even if the specific mechanism differs. See land-value-tax.
 - **Quality competitions for public land**: Award land to best design, not highest bidder.
 - **Mixed-income mandates**: No means-testing for subsidized housing. Reduces stigma, builds political coalition.

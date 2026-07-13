@@ -25,6 +25,7 @@ related:
   - complete-housing-position
   - yimby-policy-framework
   - land-value-tax
+  - building-safety-by-type
 last-updated: 2026-07-13
 ---
 
