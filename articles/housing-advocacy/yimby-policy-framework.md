@@ -21,8 +21,11 @@ related:
   - japan-housing-model
   - montreal-housing-model
   - south-korea-housing-model
+  - sweden-housing-model
+  - europe-vs-us-housing-crisis
+  - european-rent-regulation-reference
   - ca-housing-enforcement
-last-updated: 2026-07-14
+last-updated: 2026-07-15
 ---
 
 # YIMBY Policy Framework — Official Positions and Internal Nuance
@@ -166,6 +169,16 @@ The American supply-skeptic left (DSA housing caucuses, some tenant unions) cate
 | Institutional form | Government-owned (NYCHA model) | Limited-profit nonprofits (GBVs) |
 
 **Verdict**: YIMBY is closer to Vienna's foundation (build massively, allow density). The supply-skeptic left actually contradicts Vienna's most important mechanism — it wants Vienna's outputs without accepting Vienna's inputs. South Korea provides the starkest warning: 25 demand-side interventions with zero supply expansion doubled Seoul apartment prices and contributed to the world's lowest fertility rate (0.75). See south-korea-housing-model.
+
+### Real-Time Case Studies (2024-2026)
+
+Three concurrent natural experiments validate the framework:
+
+**Netherlands Affordable Rent Act (July 2024)**: Extended points-based rent regulation to mid-market segment. Immediate result: 38% drop in free-sector listings (NVM Q4 2025), 42% of private rentals pushed above €2,000/month. Government announced loosening April 2026 — less than 2 years after enactment. Demonstrates that expanding demand-side regulation without supply produces contraction. See european-rent-regulation-reference.
+
+**Germany Rent II Bill (2026)**: Tightened Mietpreisbremse — index-linked contracts in tight markets now capped at 50% CPI pass-through above 3%. Germany builds 260K homes/year vs. 400K target. Each regulatory tightening followed by further supply shortfall. The German Council of Economic Advisors (Sachverständigenrat, 2024/25 report) named "particularly strict land-use restrictions" as the central driver — confirming the supply thesis.
+
+**Ireland paradox**: Highest construction rate in the EU (6.2/1000, CSO 2023) AND homelessness rate of 25.3/10,000 — higher than the US (22.7). Rents up 115% from 2010-2025 despite RPZ caps. RPZ landlord exodus. Proves that high construction alone doesn't solve affordability without institutional infrastructure — the YIMBY thesis is necessary but not sufficient.
 
 ---
 

@@ -32,6 +32,12 @@ Aliases: ideal housing policy, complete housing framework, housing policy synthe
 Skills: _(none)_
 Aliases: europe housing crisis, us vs europe housing, european nimby, transatlantic housing comparison, europe yimby criticism
 
+## housing-advocacy / rent-regulation / international-housing / policy-comparison
+
+**european-rent-regulation-reference** → [european-rent-regulation-reference](articles/housing-advocacy/european-rent-regulation-reference.md)
+Skills: _(none)_
+Aliases: european rent control, rent regulation comparison, rent control by country, vacancy decontrol, mietpreisbremse, bruksvärdessystemet
+
 ## housing-advocacy / yimby / zoning-reform / tenant-protections / housing-supply
 
 **yimby-policy-framework** → [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md)
@@ -67,6 +73,12 @@ Aliases: singapore housing, hdb flats, cpf housing, singapore public housing, bu
 **south-korea-housing-model** → [south-korea-housing-model](articles/housing-models/south-korea-housing-model.md)
 Skills: _(none)_
 Aliases: south korea housing, korean housing, jeonse, chonsei, seoul housing, gap investment
+
+## housing-models / rent-regulation / international-housing / construction-innovation / cautionary-tale
+
+**sweden-housing-model** → [sweden-housing-model](articles/housing-models/sweden-housing-model.md)
+Skills: _(none)_
+Aliases: sweden housing, swedish rent control, bruksvärdessystemet, stockholm housing queue, swedish prefab, boklok
 
 ## housing-models / social-housing / vienna-model / international-housing / rent-regulation / public-land-banking
 

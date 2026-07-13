@@ -23,7 +23,9 @@ related:
   - vienna-model
   - singapore-hdb-model
   - complete-housing-position
-last-updated: 2026-07-13
+  - europe-vs-us-housing-crisis
+  - sweden-housing-model
+last-updated: 2026-07-14
 ---
 
 # Finland Housing Model — Housing First, ARA System, and Public Land Banking
@@ -191,6 +193,16 @@ Under the state-municipal MAL (land use, housing, transport) agreement:
 | 2023-2024 | <20,000 (decade low) |
 
 2023-2024 collapse driven by rising interest rates, construction costs, and tighter lending. State-supported production rose to ~40% of total as private construction collapsed — public investment as counter-cyclical stabilizer.
+
+### Helsinki 2024 Construction Detail
+
+Helsinki completed only **4,061 apartments** in 2024 — 58% of its MAL target of 7,000/year. Starts: 2,931. Permits: 3,609. Finland-wide residential construction shrank 36% in the 2023-2024 segment; permits dropped 50% from peak.
+
+Apartment prices fell 4.5% in 2024 (after -8% in 2023) — affordability improving via price deflation, not supply addition. Average Helsinki rent: €21.02/m² (2024); central Helsinki market rents €28-35/m². Many under-35s spend 50-55% of income on rent.
+
+### Moving Chains Evidence (Bratu et al. 2021)
+
+VATT Institute study of Helsinki: for every 100 new market-rate units built in central city locations, **29 vacancy units are created in bottom-quintile income zip codes** and 60 in bottom-half income zip codes. New market-rate housing benefits lower-income households within **3-6 rounds of moves** — faster than US cities due to smaller socioeconomic distance between neighborhoods. This is among the strongest empirical evidence for the filtering mechanism. Source: Bratu et al. (2021), VATT Working Papers 146.
 
 ---
 

@@ -22,7 +22,10 @@ related:
   - japan-housing-model
   - singapore-hdb-model
   - finland-housing-model
-last-updated: 2026-07-13
+  - sweden-housing-model
+  - europe-vs-us-housing-crisis
+  - european-rent-regulation-reference
+last-updated: 2026-07-14
 ---
 
 # Vienna Housing Model — Mechanics, Evidence, and Transferability
@@ -92,6 +95,12 @@ Long-term tenants benefit from below-market rents. New entrants — especially i
 
 ### Maintenance deficit
 The Gemeindebau stock is aging. A 2016 audit found a maintenance shortfall 1.6 times annual rental income. Deferred maintenance is the quiet cost of controlled rents.
+
+### Construction halt and projected shortfall
+Municipal construction was halted in 2005 due to €1.3 billion accumulated debt. It has recently resumed but at marginal levels. Rents have risen one-third since 2015 — the sharpest increases since 2021. Projected shortfall: **110,000 dwellings by 2030**; ~25,000 on the waiting list (placement takes 2 months to 2 years). The model is showing strain as stock ages and population grows.
+
+### Misallocation critique (AEI 2023)
+The AEI Housing Center's critique ("Setting the Record Straight") argues the system locks in tenants indefinitely, producing misallocation — high earners occupy subsidized units for life because leaving means losing below-market rent. No periodic income re-testing. The mixed-income design that prevents stigma also prevents efficient reallocation. This is a real tension: Vienna achieves political sustainability through universality at the cost of targeting efficiency.
 
 ### Unique historical conditions
 Post-WWI Vienna acquired land at collapse prices during hyperinflation. The Gemeindebau was built when construction costs were a fraction of current levels. These conditions are not replicable.
