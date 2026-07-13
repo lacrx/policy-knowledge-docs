@@ -42,7 +42,7 @@ Aliases: european rent control, rent regulation comparison, rent control by coun
 
 **yimby-policy-framework** → [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md)
 Skills: _(none)_
-Aliases: yimby position, california yimby policy, yimby action platform, nolan gray housing position, yimby vs nimby
+Aliases: yimby position, california yimby policy, yimby action platform, nolan gray housing position, yimby vs nimby, left yimby, supply-side socialism, yimby dsa convergence
 
 ## housing-models / social-housing / international-housing / homelessness / housing-first / public-land-banking
 

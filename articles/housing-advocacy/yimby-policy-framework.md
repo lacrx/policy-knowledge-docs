@@ -7,7 +7,7 @@ topics:
   - tenant-protections
   - housing-supply
 summary: >
-  Official YIMBY organizational positions (California YIMBY, YIMBY Action) versus commentariat. Covers zoning, tenant protections, social housing, vouchers, and how positions map to international models.
+  Official YIMBY organizational positions (California YIMBY, YIMBY Action) versus commentariat. Covers zoning, tenant protections, social housing, vouchers, how positions map to international models, five-pillar assessment, and the left-YIMBY convergence trend (Mamdani, Raman, Lee).
 skills:
   -
 aliases:
@@ -16,6 +16,9 @@ aliases:
   - yimby action platform
   - nolan gray housing position
   - yimby vs nimby
+  - left yimby
+  - supply-side socialism
+  - yimby dsa convergence
 related:
   - vienna-model
   - japan-housing-model
@@ -25,7 +28,8 @@ related:
   - europe-vs-us-housing-crisis
   - european-rent-regulation-reference
   - ca-housing-enforcement
-last-updated: 2026-07-15
+  - complete-housing-position
+last-updated: 2026-07-13
 ---
 
 # YIMBY Policy Framework — Official Positions and Internal Nuance
@@ -200,6 +204,102 @@ Using this project's ACTIONS OVER WORDS scoring framework:
 
 ---
 
+## Five-Pillar Assessment
+
+Grading YIMBY organizations against the complete housing framework (see complete-housing-position), distinguishing between organizational platform positions and the actual records of YIMBY-endorsed elected officials.
+
+| Pillar | Org Platform | Elected Officials | Evidence |
+|--------|-------------|-------------------|----------|
+| P1: Legalize | **A+** | **A+** | SB 9, SB 10, SB 35, AB 2097, ADU reform. 59% CA construction increase. Best-in-class among all US housing orgs. |
+| P2: Institutionalize | **D+** | **B-** | Platform: Montgomery County social housing model, fully fund Section 8. Electeds: Mamdani's Social Housing Development Authority, Lee's CA social housing bill. |
+| P3: Dedicated Revenue | **F** | **C-** | Platform: nothing — AB 179 is discretionary appropriations. Electeds: Raman's ULA reform (exempt new multifamily), Mamdani's $22B plan. Still no payroll levy or LVT. |
+| P4: Tenant Protections | **B** | **A-** | Platform: supported Tenant Protection Act 2019, right to counsel, rental registry. Electeds: Raman's 4% rent stabilization cap, Mamdani's Good Cause Eviction + rent freeze. |
+| P5: Construction Costs | **B-** | **B** | Impact fee reform ($60-70K/unit via AB 179), single-stair legalization (Raman), condo defect reform. No industrial prefab strategy. |
+
+**Overall: B** (up from initial assessment), with trajectory toward B+/A-.
+
+### Trajectory: The Learning Movement
+
+YIMBY is not a fixed ideology with permanent gaps — it is a learning movement that systematically discovers the other pillars as evidence accumulates:
+
+- **2017**: Zoning reform only (P1)
+- **2019**: Gray supports Tenant Protection Act (P4 added)
+- **2023-24**: "Where Are All the Cranes?" — feasibility crisis recognized (P5 added)
+- **2025-26**: Mamdani's supply-side socialism, Lee's social housing bill, Raman's institutional reforms (P2/P3 emerging)
+
+The sequencing matches the framework's own logic: institutions (P2) require legal building (P1) first. Dedicated revenue (P3) becomes obvious only after discretionary funding proves fragile. YIMBY discovered the pillars in the order the evidence forces discovery.
+
+### Comparison to Other US Housing Movements
+
+| Movement | P1 | P2 | P3 | P4 | P5 | Best Proxy |
+|----------|----|----|----|----|-----|-----------|
+| **YIMBY orgs** | A+ | D+ | F | B | B- | Tokyo (affordable through volume, no institutional floor) |
+| **Supply-skeptic left** (DSA caucuses, tenant unions) | F | F | F | A | F | San Francisco (supply skepticism → SF Black pop 13.4%→5.2%) |
+| **Market urbanists** (Mercatus, Cato) | A | F | F | F | C | Houston (deregulate and stop) |
+| **Affordable housing industry** (NLIHC, local authorities) | D | B | C | B+ | F | Expensive LIHTC units ($500K+/door) in small quantities |
+
+YIMBY is the best-available US movement on the most important prerequisite (P1) and the most likely to complete the framework due to evidence-responsiveness. No US movement scores above C on the complete framework.
+
+---
+
+## Left-YIMBY Convergence (2024-2026)
+
+The traditional framing — YIMBY vs. DSA as intractable opponents — is breaking down at the elected-official level. Laura Foote (YIMBY Action): "YIMBYism can — and should — be left, right, or center. When you're fighting regressive regulations, you can be anything." She described Mamdani as "an exciting break from the traditional anti-developer politics of the left."
+
+### Key Figures
+
+**Zohran Mamdani** (DSA, NYC Mayor as of 2026):
+- Campaign: $100B Vienna-style social housing model
+- In office: $22B "Block by Block" plan relying on private developers alongside social housing
+- Upzoning high-income, low-growth neighborhoods (Upper East Side, Park Slope, West Village)
+- Extends City of Yes density bonuses to medium/high-density areas near transit
+- Social Housing Development Authority bill (A9088) — public developer model
+- Good Cause Eviction champion, rent freeze for ~1M stabilized apartments
+- Analyst Alex Armlovich: "market liberalism for new housing, aggressive socialism for old housing"
+- Reason magazine: "supply-side socialism"
+- Scores on P1, P2, P3, P4 simultaneously — closest any US politician to the complete housing position
+
+**Nithya Raman** (DSA-endorsed, LA City Council CD4):
+- Voted pro-density on CHIP ordinance (Dec 2024) — 16-unit buildings in SFH zones near transit. Lost 10-5; in the pro-density minority.
+- Voted AGAINST council resolution opposing SB 79 (Aug 2025) — supported state preemption over local control. Quote: "the only times [our actions] have met the moment are when Sacramento forces us."
+- Introduced Measure ULA reform (Jan 2026) — exempt new multifamily from mansion tax for 15 years. Carving out housing production from a DSA-backed tax.
+- Single-stair construction legalization, ADU condo conversion, self-certification (Jul 2025)
+- 4% rent stabilization cap — first structural change in 40 years
+- Right to Counsel ordinance — adopted unanimously
+- Scores on P1, P4, P5 with hard votes that cost her within her own coalition
+
+**Alex Lee** (DSA member, CA Assemblymember):
+- Self-described: "proud socialist, proud YIMBY"
+- YIMBY Action: "a strong supporter of every major pro-housing bill"
+- Authored California social housing bill
+- Scores on P1 and P2 simultaneously
+
+**Michael Kinnucan** (NYC-DSA, Socialist Majority Caucus):
+- Wrote in Jacobin (Oct 2025): "you can't have social housing without building housing"
+- Argued low-density zoning and ULURP must change — supply-positive from a socialist framework
+
+### The Split
+
+DSA electeds who govern are converging with YIMBY on supply. DSA activists who don't govern maintain orthodoxy.
+
+| Level | Position on Supply |
+|-------|-------------------|
+| National DSA platform | Anti-market-rate. Housing Justice Commission: "replace the private market entirely." |
+| 2025 convention (CR06) | Tenant unions, not supply. |
+| East Bay DSA | Supports density only as decommodified social housing. |
+| DSA-LA | Traditional supply-skeptic platform. |
+| DSA *electeds* (Mamdani, Raman, Lee) | Pro-supply + pro-institutions + pro-tenants. Independently arriving at the complete framework. |
+
+Jacobin describes a "YIMBY war breaking out on the Left with socialists on all sides."
+
+### What This Means
+
+The five-pillar framework is not ideological — it is empirical. Politicians who govern discover Vienna's logic independently: supply AND institutions AND tenant protections are all required. The convergence is being driven by electeds who have to answer for outcomes (San Francisco's Black population collapse, Stockholm's 9-year queue, Ireland's paradox) rather than activists who can maintain positions without consequences.
+
+YIMBY is not moving left. The left is discovering supply. The meeting point is the complete framework.
+
+---
+
 ## References
 
 - California YIMBY Policy Framework, Chapter 2 (2024). cayimby.org/resources/policy-framework/chapter-2/
@@ -209,3 +309,15 @@ Using this project's ACTIONS OVER WORDS scoring framework:
 - Gray, M.N. & Marohn, C. (2023). Debate: Strong Towns & YIMBY Approaches. Building Culture Podcast #29.
 - California YIMBY 2023-2024 Legislative Agenda. cayimby.org
 - Office of Governor Gavin Newsom (2026-07-13). "More Housing, Faster: Governor Newsom Signs Historic Housing Affordability Reforms." gov.ca.gov
+- Foote, L. (2025). "Is Zohran Mamdani a YIMBY Socialist?" In Practice (Substack).
+- Foote, L. "YIMBYism Is Ideologically Agnostic." In Practice (Substack).
+- The Real Deal (2026-05-26). "Zohran Mamdani's NYC Housing Plan: Key Details and Impact."
+- The Real Deal (2026-06-16). "Mamdani Shifts From Social Housing to Private Investment."
+- Reason (2026-01-06). "The Contradictions of Supply-Side Socialism."
+- Time (2026-06-26). "New York Rent Freeze: Stabilized Apartments."
+- Jacobin (2022-10). "Parts of the YIMBY Movement Are Moving Left."
+- Jacobin (2025-10). Kinnucan, M. "You Can't Have Social Housing Without Building Housing."
+- LAist (2025-08). "Los Angeles City Council Votes to Oppose SB 79."
+- CD4.LACity.gov (2026-01). "Councilmember Raman Introduces Motion to Reform ULA."
+- CD4.LACity.gov (2025-07). "Councilmember Raman Introduces Motions to Greenlight Housing Production."
+- SF Standard (2024-04-09). "Alex Lee Has Big Plans to Fix California's Housing Crisis."
