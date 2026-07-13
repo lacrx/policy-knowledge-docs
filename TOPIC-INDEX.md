@@ -14,6 +14,12 @@ Aliases: apartment safety, multi-family fire safety, surfside condo collapse, bu
 Skills: draft-pra-request
 Aliases: california housing law, haa enforcement, housing accountability act, builders remedy, sb 79 compliance
 
+## housing-advocacy / housing-policy / social-housing / zoning-reform / tenant-protections / housing-supply / construction-costs / public-land-banking
+
+**complete-housing-position** → [complete-housing-position](articles/housing-advocacy/complete-housing-position.md)
+Skills: _(none)_
+Aliases: ideal housing policy, complete housing framework, housing policy synthesis, supply plus institutions, build like tokyo channel like vienna
+
 ## housing-advocacy / yimby / zoning-reform / tenant-protections / housing-supply
 
 **yimby-policy-framework** → [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md)
