@@ -32,6 +32,12 @@ Aliases: ideal housing policy, complete housing framework, housing policy synthe
 Skills: _(none)_
 Aliases: yimby position, california yimby policy, yimby action platform, nolan gray housing position, yimby vs nimby
 
+## housing-models / zoning-reform / international-housing / housing-supply / construction-costs / housing-depreciation / prefab-housing
+
+**japan-housing-model** → [japan-housing-model](articles/housing-models/japan-housing-model.md)
+Skills: _(none)_
+Aliases: japan housing, japanese zoning, tokyo housing, housing depreciation, scrap and build, kenchiku kakunin, japanese prefab
+
 ## housing-models / social-housing / vienna-model / international-housing / rent-regulation / public-land-banking
 
 **vienna-model** → [vienna-model](articles/housing-models/vienna-model.md)

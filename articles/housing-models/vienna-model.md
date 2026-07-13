@@ -19,6 +19,7 @@ aliases:
   - wohnbaufoerderung
 related:
   - yimby-policy-framework
+  - japan-housing-model
 last-updated: 2026-07-13
 ---
 
@@ -141,7 +142,7 @@ American supply skeptics who cite Vienna against YIMBYs are citing a city whose 
 
 American YIMBYs who dismiss Vienna are ignoring that ~80% of its production flows through public/nonprofit channels — the private market alone doesn't produce Vienna's outcomes.
 
-The honest synthesis: YIMBY zoning + private market = Tokyo (affordable through volume, no public layer). YIMBY zoning + Vienna's institutional framework = Vienna.
+The honest synthesis: YIMBY zoning + private market = Tokyo (affordable on average, rent-to-income ~22%, but 60.4% discrimination against vulnerable tenants and no institutional floor — see japan-housing-model). YIMBY zoning + Vienna's institutional framework = Vienna.
 
 ---
 

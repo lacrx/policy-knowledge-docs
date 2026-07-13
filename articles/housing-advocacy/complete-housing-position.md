@@ -24,6 +24,7 @@ related:
   - yimby-policy-framework
   - land-value-tax
   - building-safety-by-type
+  - japan-housing-model
 last-updated: 2026-07-13
 ---
 
@@ -65,7 +66,7 @@ No single US advocacy organization currently holds the policy position best supp
 | Legalize single-stair buildings | European-style apartments: cheaper, better layouts, demonstrably safe (IBC fire data, ROAD Act). |
 | Legalize manufactured/modular housing equally | End zoning discrimination against factory-built homes. |
 
-**Why first**: Vienna, Tokyo, Montreal, Houston — every affordable housing success story starts with permissive zoning. You cannot subsidize, regulate, or public-option your way out of a crisis while it's illegal to build.
+**Why first**: Vienna, Tokyo, Montreal, Houston — every affordable housing success story starts with permissive zoning. Tokyo built 145,000 homes in 2018 (more than all of California at 3x the population) because Japan's 13-zone national code legalizes housing in 12 of 13 zones with ministerial permitting. See japan-housing-model. You cannot subsidize, regulate, or public-option your way out of a crisis while it's illegal to build.
 
 ---
 
@@ -162,7 +163,7 @@ Vienna chose the payroll levy over LVT because it is simpler, familiar, and poli
 | Policy | Detail |
 |--------|--------|
 | Federal modular/factory construction standards | End patchwork of state/local code variations preventing factory scale. |
-| Pre-approved building designs and pattern books | Catalog of permitted designs that skip design review. Japan does this. Cuts soft costs and timelines dramatically. |
+| Pre-approved building designs and pattern books | Catalog of permitted designs that skip design review. Japan does this nationally with standardized tatami-based modular systems (see japan-housing-model). Cuts soft costs and timelines dramatically. |
 | Impact fee reform | Cap at actual infrastructure costs. California charges $50,000-$150,000/unit — more than many countries' total construction cost. |
 | Workforce development | The labor constraint is real. Apprenticeships, immigration reform for construction workers, training programs. |
 | Condominium defect law reform | Litigation risk has killed condo construction in California. Fix the liability framework. |
@@ -171,7 +172,7 @@ Vienna chose the payroll levy over LVT because it is simpler, familiar, and poli
 
 ## What This Position Is NOT
 
-**Not market fundamentalism.** Markets build well when unshackled, but market allocation alone produces Tokyo — affordable on average but with no equity floor. The public institutional layer provides what markets don't: permanent affordability, mixed-income communities, and counter-cyclical stability.
+**Not market fundamentalism.** Markets build well when unshackled, but market allocation alone produces Tokyo — affordable on average (rent-to-income ~22%) but with 60.4% discrimination against vulnerable tenants and no equity floor. Japan scores A+ on Pillar 1 and F on Pillar 2 — the clearest proof that supply alone has a ceiling. See japan-housing-model. The public institutional layer provides what markets don't: permanent affordability, mixed-income communities, and counter-cyclical stability.
 
 **Not state socialism.** Vienna's Gemeindebau (government-owned housing) stopped being the primary vehicle in the 1980s. GBVs are limited-profit nonprofits operating in a market with public land and dedicated funding. The state creates conditions; institutions build.
 

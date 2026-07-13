@@ -18,6 +18,7 @@ aliases:
   - yimby vs nimby
 related:
   - vienna-model
+  - japan-housing-model
   - ca-housing-enforcement
 last-updated: 2026-07-13
 ---
@@ -119,7 +120,7 @@ CA YIMBY's legislative arm has sponsored social housing bills while its research
 - ~80% of Vienna's production is subsidized — YIMBY menu stops well short
 
 ### The synthesis
-YIMBY zoning + private market = Tokyo (affordable through volume, no public layer). YIMBY zoning + Vienna-style institutions = Vienna. The YIMBY policy framework is correct on prerequisites but incomplete on institutional infrastructure.
+YIMBY zoning + private market = Tokyo (affordable through volume — rent-to-income ~22% — but 60.4% discrimination against vulnerable tenants, 7.1% social housing, no institutional floor; see japan-housing-model). YIMBY zoning + Vienna-style institutions = Vienna. The YIMBY policy framework is correct on prerequisites but incomplete on institutional infrastructure.
 
 ---
 
