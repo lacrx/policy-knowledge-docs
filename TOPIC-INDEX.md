@@ -20,7 +20,7 @@ Aliases: california housing law, haa enforcement, housing accountability act, bu
 Skills: _(none)_
 Aliases: lvt, land tax, split-rate property tax, georgist tax, henry george tax, site value tax
 
-## housing-advocacy / housing-policy / social-housing / zoning-reform / tenant-protections / housing-supply / construction-costs / public-land-banking
+## housing-advocacy / housing-policy / social-housing / zoning-reform / tenant-protections / housing-supply / construction-costs / public-land-banking / housing-first / ethnic-integration
 
 **complete-housing-position** → [complete-housing-position](articles/housing-advocacy/complete-housing-position.md)
 Skills: _(none)_
