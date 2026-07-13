@@ -26,6 +26,12 @@ Aliases: lvt, land tax, split-rate property tax, georgist tax, henry george tax,
 Skills: _(none)_
 Aliases: ideal housing policy, complete housing framework, housing policy synthesis, supply plus institutions, build like tokyo channel like vienna
 
+## housing-advocacy / international-housing / housing-crisis / yimby / rent-regulation / zoning-reform
+
+**europe-vs-us-housing-crisis** → [europe-vs-us-housing-crisis](articles/housing-advocacy/europe-vs-us-housing-crisis.md)
+Skills: _(none)_
+Aliases: europe housing crisis, us vs europe housing, european nimby, transatlantic housing comparison, europe yimby criticism
+
 ## housing-advocacy / yimby / zoning-reform / tenant-protections / housing-supply
 
 **yimby-policy-framework** → [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md)

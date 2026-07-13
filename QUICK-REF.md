@@ -8,6 +8,7 @@
 | ca-housing-law, rhna-compliance, sb-79, density-bonus, housing-element, adu-law, obstruction-patterns | [ca-housing-enforcement](articles/ca-housing-law/ca-housing-enforcement.md) | [draft-pra-request](skills/draft-pra-request.md) |
 | fiscal-policy, land-value-tax, housing-finance, property-tax-reform, georgism, anti-speculation | [land-value-tax](articles/fiscal-policy/land-value-tax.md) | _(none)_ |
 | housing-advocacy, housing-policy, social-housing, zoning-reform, tenant-protections, housing-supply, construction-costs, public-land-banking, housing-first, ethnic-integration | [complete-housing-position](articles/housing-advocacy/complete-housing-position.md) | _(none)_ |
+| housing-advocacy, international-housing, housing-crisis, yimby, rent-regulation, zoning-reform | [europe-vs-us-housing-crisis](articles/housing-advocacy/europe-vs-us-housing-crisis.md) | _(none)_ |
 | housing-advocacy, yimby, zoning-reform, tenant-protections, housing-supply | [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md) | _(none)_ |
 | housing-models, social-housing, international-housing, homelessness, housing-first, public-land-banking | [finland-housing-model](articles/housing-models/finland-housing-model.md) | _(none)_ |
 | housing-models, zoning-reform, international-housing, housing-supply, construction-costs, housing-depreciation, prefab-housing | [japan-housing-model](articles/housing-models/japan-housing-model.md) | _(none)_ |
