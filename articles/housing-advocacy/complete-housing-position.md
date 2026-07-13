@@ -12,7 +12,7 @@ topics:
   - housing-first
   - ethnic-integration
 summary: >
-  A synthesized housing policy position combining international evidence from six proven models. Five pillars: legalize, institutionalize, fund, protect, build cheaper. Validated against Tokyo, Vienna, Singapore, Montreal, Finland, and South Korea. Addresses the gap no single US organization currently holds.
+  A synthesized housing policy position combining international evidence from seven proven models. Five pillars: legalize, institutionalize, fund, protect, build cheaper. Validated against Tokyo, Vienna, Singapore, Montreal, Finland, South Korea, and Sweden. Addresses the gap no single US organization currently holds.
 skills:
   -
 aliases:
@@ -31,14 +31,17 @@ related:
   - montreal-housing-model
   - south-korea-housing-model
   - finland-housing-model
-last-updated: 2026-07-13
+  - sweden-housing-model
+  - europe-vs-us-housing-crisis
+  - european-rent-regulation-reference
+last-updated: 2026-07-14
 ---
 
 # Complete Housing Policy Position — Supply, Institutions, Equity
 
 ## Overview
 
-No single US advocacy organization currently holds the policy position best supported by international evidence. The YIMBY movement gets supply prerequisites right but stops short of institutional infrastructure. The supply-skeptic left gets equity aspirations right but contradicts the supply mechanics that make Vienna actually work. This article synthesizes a complete position from proven components across six international models.
+No single US advocacy organization currently holds the policy position best supported by international evidence. The YIMBY movement gets supply prerequisites right but stops short of institutional infrastructure. The supply-skeptic left gets equity aspirations right but contradicts the supply mechanics that make Vienna actually work. This article synthesizes a complete position from proven components across seven international models.
 
 ### Foundational Principle
 
@@ -50,16 +53,17 @@ No single US advocacy organization currently holds the policy position best supp
 
 ### Evidence Base
 
-Six international models, each proving a different component:
+Seven international models, each proving a different component:
 
 | Model | What It Proves | Key Article |
 |-------|---------------|-------------|
 | **Tokyo/Japan** | Supply-side legalization works: 13 national zones, ministerial permitting, rent-to-income ~22%. But no equity floor (60.4% discrimination, 7.1% social housing). | japan-housing-model |
-| **Vienna** | Institutions + supply = permanent affordability: 60% social/subsidized, century of political durability, GBVs with equity lock-in, Kostenmiete revolving fund. | vienna-model |
+| **Vienna** | Institutions + supply = permanent affordability: 50-60% social/subsidized, century of political durability, GBVs with equity lock-in, Kostenmiete revolving fund. | vienna-model |
 | **Singapore** | Universal design builds political durability: 91% homeownership, 84% in bottom decile, ethnic integration quotas. But requires city-state authoritarianism. | singapore-hdb-model |
 | **Montreal** | Supply + soft rent control can coexist: 78% plex stock, TAL guidelines, no vacancy decontrol. Quebec rental starts exceeded Ontario's per capita despite rent control. | montreal-housing-model |
-| **Finland** | Housing First works — and breaks when defunded: 72% long-term homelessness reduction (2008-2023), then 20% spike in one year after austerity cuts. Proves earmarked revenue is existential. | finland-housing-model |
+| **Finland** | Housing First works — and breaks when defunded: 72% long-term homelessness reduction (2008-2023), then 20% spike in one year after austerity cuts. Proves earmarked revenue is existential. Moving chains evidence: 100 new market-rate units → 29 vacancies in bottom-quintile zip codes (Bratu et al. 2021). | finland-housing-model |
 | **South Korea** | Demand-only intervention = catastrophe: 25 policies, prices doubled, 38,503 fraud victims, world's lowest fertility rate (0.75). | south-korea-housing-model |
+| **Sweden** | Rent-control-only = catastrophe even with capacity: OECD's most restrictive regime, 9-year Stockholm queue, 894K registered, 57% construction collapse — despite world-leading 90% prefab penetration and no exclusionary zoning. Proves institutional supply must accompany any price regulation. | sweden-housing-model |
 
 Additional domestic evidence:
 - YIMBY empirical wins (150,000 ADUs permitted in California, 140,000+ density bonus units since 2020)
@@ -95,7 +99,7 @@ Additional domestic evidence:
 *What makes Vienna different from Tokyo. What makes Singapore durable. What makes Finland's Housing First possible.*
 
 **Proven by**: Vienna (A+ — GBVs, 43% social housing, century of continuity), Singapore (A+ — HDB as master developer), Finland (A- — ARA system, Y-Foundation).
-**Disproven by**: Japan (F — 7.1% social housing, no institutional floor, 60.4% discrimination).
+**Disproven by**: Japan (F — 7.1% social housing, no institutional floor, 60.4% discrimination), Ireland (highest EU construction rate at 6.2/1000 AND 25.3/10K homelessness — supply without institutions doesn't solve it).
 
 ### Limited-Profit Housing Associations
 New US institutional form modeled on Austria's GBVs (Gemeinnützige Bauvereinigungen). Nonprofit developers bound by equity lock-in (Vermögensbindung): all surplus reinvested in housing, no profit extraction, no sale to private buyers. Closest existing US analog: community land trusts (Grounded Solutions Network), but at 100x the scale needed.
@@ -194,7 +198,7 @@ LVT alone may not reach the 0.15-0.25% of GDP scale target. A complementary mech
 
 *Protections for people in existing stock while supply scales up. And protections against the market failures that supply alone doesn't solve.*
 
-**Proven by**: Montreal (B+ — soft rent control coexists with supply), California (statewide tenant protections). **Disproven by**: Japan (D — 60.4% discrimination, no protections, market abundance as the only shield), South Korea (D — jeonse fraud enabled by zero transparency requirements).
+**Proven by**: Montreal (B+ — soft rent control coexists with supply), California (statewide tenant protections). **Disproven by**: Japan (D — 60.4% discrimination, no protections, market abundance as the only shield), South Korea (D — jeonse fraud enabled by zero transparency requirements), Sweden (price-control-only without institutional supply = 9-year queue and €110M/yr black market), Netherlands (2024 Affordable Rent Act expanded regulation → 38% listing drop, government reversing within 2 years).
 
 ### Rent Stabilization: The Quebec TAL Model
 
@@ -242,7 +246,7 @@ South Korea's 38,503 jeonse fraud victims happened because landlords had no obli
 
 *You can legalize and fund housing, but if it costs $700,000/unit to build, nothing pencils out.*
 
-**Proven by**: Japan (A — 30-50% below US costs, 12.6% factory-built, national code eliminates regulatory patchwork). **Montreal** (B — plex form is inherently cheap).
+**Proven by**: Japan (A — 30-50% below US costs, 12.6% factory-built, national code eliminates regulatory patchwork), Sweden (A on construction costs — 90% prefab penetration in detached housing, BoKlok delivers 20-25% below market). **Montreal** (B — plex form is inherently cheap).
 
 | Policy | Detail | Evidence |
 |--------|--------|----------|
