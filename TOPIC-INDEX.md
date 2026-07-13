@@ -32,11 +32,35 @@ Aliases: ideal housing policy, complete housing framework, housing policy synthe
 Skills: _(none)_
 Aliases: yimby position, california yimby policy, yimby action platform, nolan gray housing position, yimby vs nimby
 
+## housing-models / social-housing / international-housing / homelessness / housing-first / public-land-banking
+
+**finland-housing-model** → [finland-housing-model](articles/housing-models/finland-housing-model.md)
+Skills: _(none)_
+Aliases: finland housing, finnish housing first, ara housing, varke, y-foundation, helsinki housing, housing first policy
+
 ## housing-models / zoning-reform / international-housing / housing-supply / construction-costs / housing-depreciation / prefab-housing
 
 **japan-housing-model** → [japan-housing-model](articles/housing-models/japan-housing-model.md)
 Skills: _(none)_
 Aliases: japan housing, japanese zoning, tokyo housing, housing depreciation, scrap and build, kenchiku kakunin, japanese prefab
+
+## housing-models / rent-regulation / housing-supply / international-housing / zoning-reform / missing-middle
+
+**montreal-housing-model** → [montreal-housing-model](articles/housing-models/montreal-housing-model.md)
+Skills: _(none)_
+Aliases: montreal housing, quebec rent control, quebec housing, montreal plex, tal rent control, soft rent control
+
+## housing-models / social-housing / international-housing / public-housing / housing-finance / ethnic-integration
+
+**singapore-hdb-model** → [singapore-hdb-model](articles/housing-models/singapore-hdb-model.md)
+Skills: _(none)_
+Aliases: singapore housing, hdb flats, cpf housing, singapore public housing, build-to-order
+
+## housing-models / international-housing / housing-finance / housing-speculation / demographic-crisis
+
+**south-korea-housing-model** → [south-korea-housing-model](articles/housing-models/south-korea-housing-model.md)
+Skills: _(none)_
+Aliases: south korea housing, korean housing, jeonse, chonsei, seoul housing, gap investment
 
 ## housing-models / social-housing / vienna-model / international-housing / rent-regulation / public-land-banking
 

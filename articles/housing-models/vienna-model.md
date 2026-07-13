@@ -20,6 +20,8 @@ aliases:
 related:
   - yimby-policy-framework
   - japan-housing-model
+  - singapore-hdb-model
+  - finland-housing-model
 last-updated: 2026-07-13
 ---
 

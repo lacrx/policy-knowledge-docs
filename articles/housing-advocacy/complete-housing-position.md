@@ -25,6 +25,10 @@ related:
   - land-value-tax
   - building-safety-by-type
   - japan-housing-model
+  - singapore-hdb-model
+  - montreal-housing-model
+  - south-korea-housing-model
+  - finland-housing-model
 last-updated: 2026-07-13
 ---
 
@@ -178,7 +182,9 @@ Vienna chose the payroll levy over LVT because it is simpler, familiar, and poli
 
 **Not supply-skepticism.** Every pillar requires building MORE. There is no version of this that works with restricted supply. Supply skeptics who want Vienna's outcomes but resist Vienna's construction volume are pursuing a contradiction.
 
-**Not means-tested poverty programming.** Mixed-income is the design. Universal is the coalition. The moment housing policy becomes "for the poor," it loses political support and gets defunded.
+**Not means-tested poverty programming.** Mixed-income is the design. Universal is the coalition. The moment housing policy becomes "for the poor," it loses political support and gets defunded. Singapore's HDB proves this at scale — 91% homeownership with 84% ownership even in the bottom decile, precisely because the system is universal, not targeted. See singapore-hdb-model.
+
+**Not demand-side-only intervention.** South Korea's Moon administration implemented 25 demand-focused policy packages (2017-2022) while ignoring supply. Seoul apartment prices roughly doubled. The most comprehensive real-world test of demand-only housing policy, and it failed completely. See south-korea-housing-model.
 
 ---
 
