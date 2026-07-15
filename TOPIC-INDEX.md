@@ -20,6 +20,12 @@ Aliases: california housing law, haa enforcement, housing accountability act, bu
 Skills: draft-pra-request
 Aliases: ab 1398, rezoning deadline, housing element rezoning, rezoning compliance
 
+## apr-methodology / housing-proposals / land-use-analysis
+
+**apr-proposal-estimation** → [apr-proposal-estimation](articles/land-use-analysis/apr-proposal-estimation.md)
+Skills: _(none)_
+Aliases: apr estimation, housing proposal estimation, permit-based estimation, proposal proxy
+
 ## land-use-analysis / municipal-fiscal
 
 **fiscal-productivity** → [fiscal-productivity](articles/land-use-analysis/fiscal-productivity.md)
