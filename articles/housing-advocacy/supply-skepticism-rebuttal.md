@@ -236,14 +236,30 @@ This is not theoretical. It is the documented mechanism driving displacement in 
 
 ## The Reverse Counterfactual: What Happens When You *Don't* Build
 
-Supply skeptics focus entirely on potential harms of building. They never model the alternative.
+Supply skeptics focus entirely on potential harms of building. They never model the alternative. But the causal evidence runs both directions — restricting supply causes measurable harm.
+
+### Causal Evidence That Restriction Increases Rents and Displacement
+
+| Study | Restriction | Causal Finding |
+|-------|-------------|----------------|
+| **Diamond, McQuade & Qian (2019)** AER | SF rent control expansion (quasi-experiment: 1994 law change randomly assigned by building age) | Landlords removed 15% of rental supply via condo conversion and redevelopment. Short-term: covered tenants stayed. Long-term: reduced supply drove up citywide market rents by 5.1%, increasing displacement pressure on everyone *not* covered. The policy meant to prevent displacement *caused* it for non-beneficiaries. |
+| **Mense (2025)** JPE Macro | Weather-driven construction delays (instrument) | The same instrument that shows completions reduce rents also shows: delayed completions = rents *don't fall*. Every month of regulatory or weather delay holds the entire rent distribution higher. Any policy that delays construction produces the identical effect. |
+| **Soltas & Gruber (2026)** | LA permitting delays (implicit market for pre-approved land) | 2-year permitting delay = 50% land cost premium ($48/sqft). Permitting restrictions explain 1/3 of the gap between home prices and construction costs. Each dollar of regulatory cost flows directly into rents. |
+
+### The Asymmetry Is Logical, Not Empirical
+
+We have cleaner causal evidence that *building helps* than that *restricting hurts*. This is because the perfect restriction experiment ("randomly ban construction in some neighborhoods, measure displacement") cannot ethically be run. But the two claims are logically identical viewed from opposite directions. If Mense's weather instrument shows delayed completions = higher rents, then any policy that delays completions produces the same outcome. The mechanism is the same — only the sign differs.
+
+### What Restriction Looks Like In Practice
 
 When cities restrict new housing:
 - Existing residents compete for a fixed stock, bidding up rents
-- Wealthier households outbid poorer ones for the same units
+- Wealthier households outbid poorer ones for the same units (reverse filtering)
 - Landlords can raise rents without fear of vacancy (no competitive pressure)
+- Landlords convert rentals to condos or redevelop to higher-end uses (Diamond et al.: 15% supply loss)
 - Displacement increases as rents rise faster than incomes
 - Homelessness increases as the bottom of the market tightens
+- Lowest-income ZIP codes bear the worst rent increases (10.3% from 2017-2024, highest of any income band)
 
 The question is never "build vs. don't build." It is "build vs. the consequences of not building." Every city that has tried to solve affordability through restriction has gotten worse. No exceptions.
 
@@ -261,6 +277,7 @@ The question is never "build vs. don't build." It is "build vs. the consequences
 | Only affordable housing helps | Market-rate and social housing chains produce identical outcomes by 2nd link (Bratu et al. 2023, Helsinki) | **Refuted** |
 | Filtering takes too long | Chains operate in 2-6 years, not decades (Mast 2023, Bratu et al. 2023) | **Refuted** |
 | Entire rent distribution only shifts luxury segment | New supply shifts entire rent distribution down (Mense 2025, JPE Macro) | **Refuted** |
+| Restricting supply protects residents | Rent control caused 15% supply loss, raised citywide rents 5.1% (Diamond et al. 2019, AER) | **Refuted** |
 
 ---
 
@@ -307,6 +324,9 @@ When you need to convince someone in 60 seconds:
 ### Land Use Reform / Natural Experiments
 - Giacoletti, M., Korevaar, M., & Qian, F. (2025). How housing supply expansions reshape cities. Working paper. SSRN 5840244.
 - Gu, H. & Munro, D. (2025). Zoning reforms and housing affordability: Evidence from the Minneapolis 2040 Plan. Working paper. SSRN 5347083.
+
+### Restriction → Harm
+- Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality: Evidence from San Francisco. *American Economic Review*, 109(9), 3365-3394.
 
 ### Regulatory Costs
 - Soltas, E. & Gruber, J. (2026). How costly is permitting in housing development? Working paper.
