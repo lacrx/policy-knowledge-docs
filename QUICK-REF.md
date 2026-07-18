@@ -13,6 +13,7 @@
 | housing-advocacy, international-housing, housing-crisis, yimby, rent-regulation, zoning-reform | [europe-vs-us-housing-crisis](articles/housing-advocacy/europe-vs-us-housing-crisis.md) | _(none)_ |
 | housing-advocacy, rent-regulation, international-housing, policy-comparison | [european-rent-regulation-reference](articles/housing-advocacy/european-rent-regulation-reference.md) | _(none)_ |
 | housing-advocacy, yimby, zoning-reform, tenant-protections, housing-supply | [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md) | _(none)_ |
+| housing-advocacy, housing-supply, supply-skepticism, filtering, vacancy-chains, gentrification, displacement, zoning-reform, affordability | [supply-skepticism-rebuttal](articles/housing-advocacy/supply-skepticism-rebuttal.md) | _(none)_ |
 | housing-models, social-housing, international-housing, homelessness, housing-first, public-land-banking | [finland-housing-model](articles/housing-models/finland-housing-model.md) | _(none)_ |
 | housing-models, zoning-reform, international-housing, housing-supply, construction-costs, housing-depreciation, prefab-housing | [japan-housing-model](articles/housing-models/japan-housing-model.md) | _(none)_ |
 | housing-models, rent-regulation, housing-supply, international-housing, zoning-reform, missing-middle | [montreal-housing-model](articles/housing-models/montreal-housing-model.md) | _(none)_ |

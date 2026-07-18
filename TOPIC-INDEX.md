@@ -50,6 +50,12 @@ Aliases: europe housing crisis, us vs europe housing, european nimby, transatlan
 Skills: _(none)_
 Aliases: european rent control, rent regulation comparison, rent control by country, vacancy decontrol, mietpreisbremse, bruksvärdessystemet
 
+## housing-advocacy / housing-supply / supply-skepticism / filtering / vacancy-chains / gentrification / displacement / zoning-reform / affordability
+
+**supply-skepticism-rebuttal** → [supply-skepticism-rebuttal](articles/housing-advocacy/supply-skepticism-rebuttal.md)
+Skills: _(none)_
+Aliases: supply skepticism, does building housing lower rents, luxury housing affordability, market rate helps poor, vacancy chains, moving chains, filtering housing, induced demand housing, gentrification displacement evidence, does new construction cause gentrification, housing supply and affordability, supply skeptics wrong, build more housing evidence
+
 ## housing-advocacy / yimby / zoning-reform / tenant-protections / housing-supply
 
 **yimby-policy-framework** → [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md)
