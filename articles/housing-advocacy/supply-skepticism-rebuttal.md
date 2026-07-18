@@ -111,27 +111,27 @@ This confuses correlation with causation. Developers build where rents are alrea
 
 ### The Evidence: Supply Reduces Displacement
 
-| Study | Location | Method | Finding |
-|-------|----------|--------|---------|
-| **Pennington (2021)** | San Francisco | Natural experiment: used building fires as random variation in where new housing gets built. Fires are random relative to housing demand. | Within 100m of new construction: rents fell 2%, displacement risk for current renters fell 17%. |
-| **Asquith, Mast & Reed (2023)** | 11 US cities | Large new apartment buildings in low-income areas, using microdata on rents and migration. | New buildings decreased nearby rents by 5-7% relative to slightly farther locations. Increased in-migration from low-income areas. Supply effect overwhelmed any amenity effect. |
-| **Li (2022)** | New York City | Microdata on new high-rises and surrounding rents/sales. | Every 10% increase in housing stock within 500ft reduced rents by 1%. Amenity effect existed but was dominated by supply effect. Net effect: rents fell. |
-| **Ding, Hwang & Divringi (2016)** | Philadelphia | Credit bureau data tracking individual mobility in gentrifying vs. non-gentrifying neighborhoods. | Less-advantaged residents were *no more likely to move* from gentrifying neighborhoods than from non-gentrifying ones. |
-| **Rollet (2025)** | New York City | Parcel-level building and zoning panel, quasi-experimental zoning reforms. | 10% increase in floorspace reduces rents by 4.2%. Effect continues declining for 10+ years after completion. Affordability benefits "largely accrue to households outside the rezoned neighborhoods" via migration spillovers. |
+| Study | Location | Method | Finding | Status |
+|-------|----------|--------|---------|--------|
+| **Asquith, Mast & Reed (2023)** | 11 US cities | Large new apartment buildings in low-income areas, using microdata on rents and migration. | New buildings decreased nearby rents by 5-7% relative to slightly farther locations. Increased in-migration from low-income areas. Supply effect overwhelmed any amenity effect. | **Peer-reviewed** (*Review of Economics and Statistics*) |
+| **Li (2022)** | New York City | Microdata on new high-rises and surrounding rents/sales. | Every 10% increase in housing stock within 500ft reduced rents by 1%. Amenity effect existed but was dominated by supply effect. Net effect: rents fell. | **Peer-reviewed** (*Journal of Economic Geography*) |
+| **Ding, Hwang & Divringi (2016)** | Philadelphia | Credit bureau data tracking individual mobility in gentrifying vs. non-gentrifying neighborhoods. | Less-advantaged residents were *no more likely to move* from gentrifying neighborhoods than from non-gentrifying ones. | **Peer-reviewed** (*Regional Science and Urban Economics*) |
+| **Pennington (2021)** | San Francisco | Natural experiment: used building fires as random variation in where new housing gets built. Fires are random relative to housing demand. | Within 100m of new construction: rents fell 2%, displacement risk for current renters fell 17%. | **Working paper** (won 2021 UEA best student paper; widely cited but not yet journal-published) |
+| **Rollet (2025)** | New York City | Parcel-level building and zoning panel, quasi-experimental zoning reforms. | 10% increase in floorspace reduces rents by 4.2%. Effect continues declining for 10+ years after completion. Affordability benefits "largely accrue to households outside the rezoned neighborhoods" via migration spillovers. | **Working paper** (MIT; won 2025 European UEA best student paper) |
 
-**The Pennington paper deserves special emphasis.** Building fires are as close to random as you get in urban economics. There is no plausible story where fires target neighborhoods based on housing demand. When new housing went up on fire sites, nearby rents fell and displacement dropped. This is about as clean a causal result as social science produces.
+**Note on Pennington:** This paper has an exceptionally clean identification strategy (building fires as random variation) and has been cited in multiple peer-reviewed publications. However, it remains a working paper and has not itself passed journal peer review. The core finding — that new construction reduces nearby displacement — is independently confirmed by Asquith/Mast/Reed (2023) in *Review of Economics and Statistics*, a top-5 economics journal. The conclusion does not depend on Pennington alone.
 
 ### The Amenity Effect Concern
 
 Skeptics argue new buildings create an "amenity effect" — better restaurants, nicer streets, wealthier neighbors — that raises surrounding rents more than the supply effect lowers them.
 
-Every causal study that has tested this finds the supply effect dominates:
-- Pennington: net -2% rents within 100m
-- Asquith/Mast/Reed: net -5 to -7% nearby rents
-- Li: net negative despite measurable amenity effects
-- Rollet: net -4.2% per 10% floorspace increase
+Every peer-reviewed causal study that has tested this finds the supply effect dominates on net:
+- Asquith/Mast/Reed (ReStat): net -5 to -7% nearby rents
+- Li (JEG): net negative despite measurable amenity effects
+- Mense (JPE Macro): entire rent distribution shifts down
+- Pennington (working paper): net -2% rents within 100m
 
-The amenity effect is real but small. The supply effect is real and larger. Net effect: rents fall.
+**One contested finding:** Damiano & Frenier (2026, *Journal of Urban Affairs* — peer-reviewed) found that in Minneapolis, bottom-tercile-rent buildings near new luxury construction saw rents *rise* ~6.7%, while top-tercile buildings saw rents fall 1.7%. This suggests the amenity effect may dominate the supply effect *specifically for the lowest-quality nearby units* in the short run. However, Asquith/Mast/Reed studied the same question (new construction in low-income areas) in 11 cities with stronger identification and found the opposite — rents fell across all nearby segments. The weight of evidence favors net rent reduction, but this remains the most legitimate area of empirical disagreement.
 
 ---
 
@@ -192,17 +192,19 @@ This was the most credible skeptic concern in 2019, when neighborhood-level caus
 
 ### The Evidence: Neighborhood Effects Are Positive
 
-Every causal study measuring neighborhood-level effects finds net rent reductions:
+Peer-reviewed causal studies measuring neighborhood-level effects consistently find net rent reductions:
 
-| Study | Scale | Rent Effect |
-|-------|-------|-------------|
-| Pennington (2021) | 100m radius | -2% |
-| Asquith/Mast/Reed (2023) | Nearby units | -5 to -7% |
-| Li (2022) | 500ft buffer | -1% per 10% stock increase |
-| Rollet (2025) | Neighborhood | -4.2% per 10% floorspace increase |
-| **Mense (2025)** | Local rent distribution | -0.4 to -0.7% per 1 new unit per 100 existing rental listings |
+| Study | Scale | Rent Effect | Status |
+|-------|-------|-------------|--------|
+| Asquith/Mast/Reed (2023) | Nearby units | -5 to -7% | **Peer-reviewed** (ReStat) |
+| Li (2022) | 500ft buffer | -1% per 10% stock increase | **Peer-reviewed** (JEG) |
+| **Mense (2025)** | Local rent distribution | -0.4 to -0.7% per 1 new unit per 100 existing rental listings | **Peer-reviewed** (JPE Macro) |
+| Pennington (2021) | 100m radius | -2% | Working paper |
+| Rollet (2025) | Neighborhood | -4.2% per 10% floorspace increase | Working paper |
 
-**The Mense (2025) paper is the most powerful single result.** Published in *Journal of Political Economy Macroeconomics*, it used weather-driven construction delays as an instrument (weather is random relative to demand). Finding: new housing supply shifts the **entire rent distribution** downward — not just luxury rents, all rents. This kills the "only helps rich people" argument at the neighborhood level with a top-tier journal publication.
+**Counterpoint:** Damiano & Frenier (2026, *Journal of Urban Affairs* — peer-reviewed) found bottom-tercile nearby rents *rose* in Minneapolis. See Argument #2 for discussion of this disagreement.
+
+**The Mense (2025) paper is the most powerful single result.** Published in *Journal of Political Economy Macroeconomics*, it used weather-driven construction delays as an instrument (weather is random relative to demand). Finding: new housing supply shifts the **entire rent distribution** downward — not just luxury rents, all rents. This kills the "only helps rich people" argument at the neighborhood level with a top-tier peer-reviewed journal publication.
 
 ---
 
@@ -273,7 +275,7 @@ The question is never "build vs. don't build." It is "build vs. the consequences
 | New housing causes gentrification/displacement | Displacement risk falls 17% near new construction; rents fall 2-7% locally (Pennington 2021, Asquith et al. 2023) | **Refuted** |
 | Induced demand negates supply benefits | 60-70% of movers are local; new housing captures existing demand (Mast 2023, Phillips 2026) | **Refuted** |
 | Land scarcity makes supply irrelevant | Regulatory constraints, not physical land, are the binding constraint; permitting = 1/3 of price gap (Soltas/Gruber 2026) | **Refuted** |
-| Neighborhood effects are harmful | Every causal study finds net rent decreases at neighborhood level (Pennington, Li, Asquith, Rollet, Mense) | **Refuted** |
+| Neighborhood effects are harmful | Peer-reviewed studies find net rent decreases (Asquith/Mast/Reed 2023 ReStat, Li 2022 JEG, Mense 2025 JPE Macro). One peer-reviewed study (Damiano/Frenier 2026 JUA) finds bottom-tercile nearby rents may rise short-term. Weight of evidence: net negative. | **Refuted (with nuance)** |
 | Only affordable housing helps | Market-rate and social housing chains produce identical outcomes by 2nd link (Bratu et al. 2023, Helsinki) | **Refuted** |
 | Filtering takes too long | Chains operate in 2-6 years, not decades (Mast 2023, Bratu et al. 2023) | **Refuted** |
 | Entire rent distribution only shifts luxury segment | New supply shifts entire rent distribution down (Mense 2025, JPE Macro) | **Refuted** |
@@ -287,7 +289,7 @@ When you need to convince someone in 60 seconds:
 
 1. **"Per 100 new market-rate units, 45-70 units open up for below-median-income households within 2 years."** (Mast 2023, Journal of Urban Economics)
 
-2. **"Within 100 meters of new construction, rents fell 2% and displacement risk dropped 17%."** (Pennington 2021, natural experiment using building fires in SF)
+2. **"Near new apartment buildings in low-income areas, rents fell 5-7%."** (Asquith, Mast & Reed 2023, *Review of Economics and Statistics* — peer-reviewed, 11 US cities)
 
 3. **"New market-rate housing and social housing produce identical vacancy chains by the second link."** (Bratu et al. 2023, Helsinki administrative data, Journal of Urban Economics)
 
@@ -299,37 +301,34 @@ When you need to convince someone in 60 seconds:
 
 ## Full Citation List
 
-### Foundational
-- Been, V., Ellen, I. G., & O'Regan, K. (2019). Supply skepticism: Housing supply and affordability. *Housing Policy Debate*, 29(1), 25-40. DOI: 10.1080/10511482.2018.1476899
-- Been, V., Ellen, I. G., & O'Regan, K. (2025). Supply skepticism revisited. *Housing Policy Debate*, 35(1), 96-113. DOI: 10.1080/10511482.2024.2418044
+### Peer-Reviewed Journal Publications
 
-### Vacancy Chains / Moving Chains
-- Mast, E. (2023). JUE Insight: The effect of new market-rate housing construction on the low-income housing market. *Journal of Urban Economics*, 133, 103383.
-- Bratu, C., Harjunen, O., & Saarimaa, T. (2023). JUE Insight: City-wide effects of new housing supply: Evidence from moving chains. *Journal of Urban Economics*, 133, 103528.
-- Fang, L., Kim, E., & Tyndall, J. (2025). The downmarket impact of new multifamily housing: Evidence from a Honolulu condo tower. *Real Estate Economics*. DOI: 10.1111/1540-6229.70049
+| Citation | Journal | Topic |
+|----------|---------|-------|
+| Been, V., Ellen, I. G., & O'Regan, K. (2019). Supply skepticism: Housing supply and affordability. 29(1), 25-40. | *Housing Policy Debate* | Foundational |
+| Been, V., Ellen, I. G., & O'Regan, K. (2025). Supply skepticism revisited. 35(1), 96-113. | *Housing Policy Debate* | Foundational |
+| Mast, E. (2023). The effect of new market-rate housing construction on the low-income housing market. 133, 103383. | *Journal of Urban Economics* | Vacancy chains |
+| Bratu, C., Harjunen, O., & Saarimaa, T. (2023). City-wide effects of new housing supply: Evidence from moving chains. 133, 103528. | *Journal of Urban Economics* | Vacancy chains |
+| Fang, L., Kim, E., & Tyndall, J. (2025). The downmarket impact of new multifamily housing: Evidence from a Honolulu condo tower. | *Real Estate Economics* | Vacancy chains |
+| Asquith, B. J., Mast, E., & Reed, D. (2023). Local effects of large new apartment buildings in low-income areas. 105(2), 359-375. | *Review of Economics and Statistics* | Neighborhood effects |
+| Li, X. (2022). Do new housing units in your backyard raise your rents? 22(6), 1309-1352. | *Journal of Economic Geography* | Neighborhood effects |
+| Mense, A. (2025). The impact of new housing supply on the distribution of rents. 3(1). | *JPE Macroeconomics* | Neighborhood effects / rent distribution |
+| Damiano, A. & Frenier, C. (2026). Build baby build? Housing submarkets and the effects of new construction on existing rents. | *Journal of Urban Affairs* | Neighborhood effects (contested) |
+| Rosenthal, S. (2014). Are private markets and filtering a viable source of low-income housing? 104(2), 687-706. | *American Economic Review* | Filtering |
+| Ding, L., Hwang, J., & Divringi, E. (2016). Gentrification and residential mobility in Philadelphia. 61, 38-51. | *Regional Science and Urban Economics* | Displacement |
+| Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality. 109(9), 3365-3394. | *American Economic Review* | Restriction → harm |
 
-### Neighborhood-Level Effects
-- Pennington, K. (2021). Does building new housing cause displacement? The supply and demand effects of construction in San Francisco. Working paper.
-- Asquith, B. J., Mast, E., & Reed, D. (2023). Local effects of large new apartment buildings in low-income areas. *Review of Economics and Statistics*, 105(2), 359-375.
-- Li, X. (2022). Do new housing units in your backyard raise your rents? *Journal of Economic Geography*, 22(6), 1309-1352.
-- Rollet, V. (2025). Zoning and the dynamics of urban redevelopment. Working paper (MIT). Best Student Paper, 2025 European Urban Economics Association.
-- Mense, A. (2025). The impact of new housing supply on the distribution of rents. *Journal of Political Economy Macroeconomics*, 3(1).
+### Working Papers (Not Yet Peer-Reviewed)
 
-### Filtering
-- Rosenthal, S. (2014). Are private markets and filtering a viable source of low-income housing? Estimates from a "repeat income" model. *American Economic Review*, 104(2), 687-706.
+These papers use strong methodology and are widely cited, but have not passed journal peer review. Conclusions from this article do not depend solely on any working paper — each finding is independently supported by at least one peer-reviewed publication.
 
-### Displacement / Gentrification
-- Ding, L., Hwang, J., & Divringi, E. (2016). Gentrification and residential mobility in Philadelphia. *Regional Science and Urban Economics*, 61, 38-51.
-
-### Land Use Reform / Natural Experiments
-- Giacoletti, M., Korevaar, M., & Qian, F. (2025). How housing supply expansions reshape cities. Working paper. SSRN 5840244.
-- Gu, H. & Munro, D. (2025). Zoning reforms and housing affordability: Evidence from the Minneapolis 2040 Plan. Working paper. SSRN 5347083.
-
-### Restriction → Harm
-- Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality: Evidence from San Francisco. *American Economic Review*, 109(9), 3365-3394.
-
-### Regulatory Costs
-- Soltas, E. & Gruber, J. (2026). How costly is permitting in housing development? Working paper.
+| Citation | Affiliation | Topic |
+|----------|-------------|-------|
+| Pennington, K. (2021). Does building new housing cause displacement? The supply and demand effects of construction in San Francisco. | US Census Bureau (formerly UC Berkeley). Won 2021 UEA best student paper. | Neighborhood effects / displacement |
+| Rollet, V. (2025). Zoning and the dynamics of urban redevelopment. | MIT. Won 2025 European UEA best student paper. | Neighborhood effects / zoning reform |
+| Giacoletti, M., Korevaar, M., & Qian, F. (2025). How housing supply expansions reshape cities. SSRN 5840244. | USC / Erasmus / UNC. | Land use reform |
+| Gu, H. & Munro, D. (2025). Zoning reforms and housing affordability: Evidence from the Minneapolis 2040 Plan. SSRN 5347083. | Vanderbilt. | Land use reform |
+| Soltas, E. & Gruber, J. (2026). How costly is permitting in housing development? | MIT. | Regulatory costs |
 
 ### Media / Synthesis
 - Grabar, H. (2026). High-end construction really does help everyone. *The Atlantic*.
