@@ -110,6 +110,12 @@ Aliases: apr estimation, housing proposal estimation, permit-based estimation, p
 Skills: fetch-policy-bundle
 Aliases: revenue per acre, fiscal impact analysis, strong towns fiscal, density fiscal productivity, infrastructure lifecycle
 
+## land-use-analysis / density-caps / permit-analysis / obstruction-patterns / policy-impact
+
+**policy-impact-filing-analysis** → [policy-impact-filing-analysis](articles/land-use-analysis/policy-impact-filing-analysis.md)
+Skills: _(none)_
+Aliases: filing freeze analysis, density cap impact, development application analysis, permit filing methodology
+
 ## pra-strategy
 
 **cpra-compliance** → [cpra-compliance](articles/pra-strategy/cpra-compliance.md)

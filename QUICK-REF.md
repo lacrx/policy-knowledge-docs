@@ -22,5 +22,6 @@
 | housing-models, social-housing, vienna-model, international-housing, rent-regulation, public-land-banking | [vienna-model](articles/housing-models/vienna-model.md) | _(none)_ |
 | apr-methodology, housing-proposals, land-use-analysis | [apr-proposal-estimation](articles/land-use-analysis/apr-proposal-estimation.md) | _(none)_ |
 | land-use-analysis, municipal-fiscal | [fiscal-productivity](articles/land-use-analysis/fiscal-productivity.md) | [fetch-policy-bundle](skills/fetch-policy-bundle.md) |
+| land-use-analysis, density-caps, permit-analysis, obstruction-patterns, policy-impact | [policy-impact-filing-analysis](articles/land-use-analysis/policy-impact-filing-analysis.md) | _(none)_ |
 | pra-strategy | [cpra-compliance](articles/pra-strategy/cpra-compliance.md) | [draft-pra-request](skills/draft-pra-request.md) |
 | transportation-safety, vision-zero, complete-streets, crash-data | [crash-data-methodology](articles/transportation-safety/crash-data-methodology.md) | [evaluate-crash-study](skills/evaluate-crash-study.md) |
