@@ -17,7 +17,7 @@ aliases:
 related:
   - apr-proposal-estimation
   - ca-housing-enforcement
-last-updated: 2026-07-18
+last-updated: 2026-07-19
 ---
 
 # Proving Policy Impact via Filing Analysis
@@ -65,13 +65,13 @@ Municipal permit tracking systems (eTrakit, Accela, OpenGov) are the authoritati
 - **Description** — project type and unit count
 - **Status** — pending, approved, denied, withdrawn
 
-These systems capture ministerial and discretionary applications at time of submission, before they reach any hearing body.
+Etrakit captures **discretionary** applications (development plans, density bonus, CUPs). It does NOT capture ministerial approvals (ADUs, SB 9 lot splits, by-right small projects). This distinction matters: a density cap may kill discretionary filings while ministerial activity continues. A finding of "zero etrakit filings" means zero discretionary projects — ADUs may still be trickling in unseen.
 
 ### HCD Annual Progress Report (Table A)
 
-Gov. Code § 65400 requires cities to report annually on housing applications. Table A includes `APP_SUBMIT_DT`, unit counts by income category, and `UNIT_CAT` (ADU/SFD/2-4/5+). Covers the prior calendar year; typically filed by April 1. Use for cross-referencing etrakit data and for income-level breakdowns not available in etrakit.
+Gov. Code § 65400 requires cities to report annually on housing applications. Table A includes `APP_SUBMIT_DT`, unit counts by income category, and `UNIT_CAT` (ADU/SFD/2-4/5+). Covers the prior calendar year; typically filed by April 1. APR captures ALL unit types — discretionary and ministerial — so APR totals will exceed etrakit discretionary counts. The difference is the ministerial activity (primarily ADUs).
 
-**Limitation**: APR data is 6-18 months stale. For current-year analysis, rely on etrakit.
+**Limitation**: APR data is 6-18 months stale. Current-year ministerial counts are unknown until APR is filed (April of the following year). For current-year analysis, etrakit shows discretionary filings only. Do not claim "zero filings" for the current year when you can only see the discretionary side — qualify with what is and isn't visible.
 
 ### Meeting Records
 
@@ -79,14 +79,16 @@ Council and commission agendas/minutes capture projects after they reach a heari
 
 ## Geographic Filtering
 
-Downtown districts, specific plan areas, and overlay zones require careful geographic definition. Methods:
+Use the jurisdiction's own boundary definition — the same extent that defines where the policy applies. Do not guess from street names.
 
-- **Street-based**: Define downtown by its boundary streets. Requires local knowledge.
-- **APN-based**: Use assessor parcel numbers if available in filing data. Most precise.
-- **Zoning-based**: Filter by zoning designation (e.g., D-1 through D-5 for downtown subdistricts).
-- **Application number context**: Some jurisdictions use application types that imply location (e.g., Regular Coastal Permit = coastal zone).
+**Preferred method**: If the jurisdiction publishes a GeoJSON, shapefile, or zoning map for the affected district, use point-in-polygon testing against that boundary. Cross-reference filing coordinates (from APR lat/lon or geocoded addresses) against the official polygon.
 
-Cross-reference multiple methods when possible. A project at "Mission Avenue" could be downtown or on the Mission Avenue corridor miles inland.
+**Fallback methods** (in order of reliability):
+- **APN-based**: Use assessor parcel numbers if the jurisdiction maps APNs to zoning districts.
+- **Zoning-based**: Filter by zoning designation (e.g., D-1 through D-14 for downtown subdistricts).
+- **Street-based**: Define by boundary streets. Least reliable — a street name like "Mission Avenue" can span downtown and inland corridors miles apart. Only use when no spatial data exists, and document the assumed boundary.
+
+Street-name filtering will produce false positives and false negatives. A project at "1401 Mission Ave" may be downtown; "3296 Mission Ave" is miles east. Without spatial verification, you cannot make airtight geographic claims.
 
 ## Interpreting the Zero
 
