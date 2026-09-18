@@ -25,3 +25,4 @@
 | land-use-analysis, density-caps, permit-analysis, obstruction-patterns, policy-impact | [policy-impact-filing-analysis](articles/land-use-analysis/policy-impact-filing-analysis.md) | _(none)_ |
 | pra-strategy | [cpra-compliance](articles/pra-strategy/cpra-compliance.md) | [draft-pra-request](skills/draft-pra-request.md) |
 | transportation-safety, vision-zero, complete-streets, crash-data | [crash-data-methodology](articles/transportation-safety/crash-data-methodology.md) | [evaluate-crash-study](skills/evaluate-crash-study.md) |
+| transportation-safety, automated-enforcement, red-light-cameras, speed-cameras, vision-zero | [automated-enforcement-evidence](articles/transportation-safety/automated-enforcement-evidence.md) | [evaluate-enforcement-claim](skills/evaluate-enforcement-claim.md) |
