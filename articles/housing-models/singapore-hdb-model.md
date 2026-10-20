@@ -20,7 +20,13 @@ aliases:
 related:
   - vienna-model
   - japan-housing-model
+  - finland-housing-model
+  - south-korea-housing-model
+  - sweden-housing-model
+  - montreal-housing-model
   - complete-housing-position
+  - europe-vs-us-housing-crisis
+  - yimby-policy-framework
 last-updated: 2026-07-13
 ---
 

@@ -20,7 +20,13 @@ aliases:
 related:
   - japan-housing-model
   - singapore-hdb-model
+  - vienna-model
+  - finland-housing-model
+  - sweden-housing-model
+  - montreal-housing-model
   - complete-housing-position
+  - europe-vs-us-housing-crisis
+  - yimby-policy-framework
   - land-value-tax
 last-updated: 2026-07-13
 ---

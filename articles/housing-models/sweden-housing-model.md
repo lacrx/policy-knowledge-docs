@@ -21,6 +21,10 @@ related:
   - europe-vs-us-housing-crisis
   - south-korea-housing-model
   - montreal-housing-model
+  - japan-housing-model
+  - singapore-hdb-model
+  - finland-housing-model
+  - complete-housing-position
   - yimby-policy-framework
   - vienna-model
 last-updated: 2026-07-14

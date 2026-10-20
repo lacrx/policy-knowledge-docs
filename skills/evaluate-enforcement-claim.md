@@ -77,6 +77,23 @@ Common bad-faith patterns:
 - **False equivalence:** treating one methodologically flawed study as equal to 8 meta-analyses
 - **Concern trolling:** "I support studying cameras" while opposing the vote to study cameras
 
+---
+
+## Constraints
+
+- Only cite peer-reviewed studies and official agency reports; do not cite advocacy group summaries as evidence
+- Apply the crash-data-methodology.md evidence hierarchy when evaluating cited studies
+- Do not dismiss privacy concerns; acknowledge them and cite specific legislative protections (e.g., SB 720 data provisions)
+- Distinguish between legitimate methodological critique and bad-faith argument patterns
+
+---
+
+## Outputs
+
+A structured verdict containing: the claim, matched argument pattern, evidence quality assessment, contradicted studies, identified rhetorical patterns, verdict (SUPPORTED/UNSUPPORTED/MISLEADING), and a 2-3 sentence rebuttal with specific citations.
+
+---
+
 ### Step 5: Produce verdict
 
 **Format:**

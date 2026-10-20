@@ -2,6 +2,9 @@
 title: California Public Records Act — Compliance & Strategy
 topics:
   - pra-strategy
+  - government-transparency
+  - enforcement-strategy
+  - housing-accountability
 skills:
   - draft-pra-request
 summary: >
@@ -13,6 +16,7 @@ aliases:
   - california public records
 related:
   - ca-housing-enforcement
+  - rezoning-compliance
 last-updated: 2026-06-28
 ---
 

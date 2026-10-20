@@ -18,7 +18,8 @@ aliases:
   - section control
   - SB 720
 related:
-  - articles/transportation-safety/crash-data-methodology.md
+  - crash-data-methodology
+  - bike-lane-economic-impact
 last-updated: 2026-09-17
 ---
 

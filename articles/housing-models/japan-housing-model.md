@@ -22,7 +22,13 @@ aliases:
   - japanese prefab
 related:
   - vienna-model
+  - singapore-hdb-model
+  - finland-housing-model
+  - south-korea-housing-model
+  - sweden-housing-model
+  - montreal-housing-model
   - complete-housing-position
+  - europe-vs-us-housing-crisis
   - yimby-policy-framework
   - land-value-tax
   - building-safety-by-type

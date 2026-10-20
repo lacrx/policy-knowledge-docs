@@ -18,6 +18,8 @@ aliases:
   - dense housing safety
 related:
   - yimby-policy-framework
+  - complete-housing-position
+  - japan-housing-model
 last-updated: 2026-07-13
 ---
 

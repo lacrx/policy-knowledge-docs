@@ -16,6 +16,8 @@ aliases:
   - rezoning compliance
 related:
   - ca-housing-enforcement
+  - cpra-compliance
+  - policy-impact-filing-analysis
 last-updated: 2026-07-06
 ---
 

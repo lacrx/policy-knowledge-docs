@@ -20,6 +20,10 @@ aliases:
   - sb 79 compliance
 related:
   - fiscal-productivity
+  - rezoning-compliance
+  - cpra-compliance
+  - policy-impact-filing-analysis
+  - yimby-policy-framework
 last-updated: 2026-07-06
 ---
 

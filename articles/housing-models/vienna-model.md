@@ -22,9 +22,14 @@ related:
   - japan-housing-model
   - singapore-hdb-model
   - finland-housing-model
+  - south-korea-housing-model
   - sweden-housing-model
+  - montreal-housing-model
+  - complete-housing-position
   - europe-vs-us-housing-crisis
   - european-rent-regulation-reference
+  - dsa-housing-ideology
+  - left-yimby-coalition
 last-updated: 2026-07-14
 ---
 

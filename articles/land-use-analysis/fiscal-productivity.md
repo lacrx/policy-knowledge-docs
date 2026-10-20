@@ -3,6 +3,10 @@ title: Fiscal Productivity & Land Use Analysis
 topics:
   - land-use-analysis
   - municipal-fiscal
+  - density
+  - infrastructure-costs
+  - fiscal-impact
+  - sprawl-economics
 skills:
   - fetch-policy-bundle
 summary: >
@@ -15,6 +19,9 @@ aliases:
   - infrastructure lifecycle
 related:
   - ca-housing-enforcement
+  - land-value-tax
+  - policy-impact-filing-analysis
+  - complete-housing-position
 last-updated: 2026-06-28
 ---
 

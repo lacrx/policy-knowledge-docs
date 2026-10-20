@@ -110,7 +110,7 @@ Aliases: vienna social housing, gemeindebau, austrian housing model, gbv limited
 Skills: _(none)_
 Aliases: apr estimation, housing proposal estimation, permit-based estimation, proposal proxy
 
-## land-use-analysis / municipal-fiscal
+## land-use-analysis / municipal-fiscal / density / infrastructure-costs / fiscal-impact / sprawl-economics
 
 **fiscal-productivity** → [fiscal-productivity](articles/land-use-analysis/fiscal-productivity.md)
 Skills: fetch-policy-bundle
@@ -122,11 +122,35 @@ Aliases: revenue per acre, fiscal impact analysis, strong towns fiscal, density 
 Skills: _(none)_
 Aliases: filing freeze analysis, density cap impact, development application analysis, permit filing methodology
 
-## pra-strategy
+## political-landscape / housing-advocacy / supply-skepticism / social-housing / democratic-socialism / dsa
+
+**dsa-housing-ideology** → [dsa-housing-ideology](articles/political-landscape/dsa-housing-ideology.md)
+Skills: _(none)_
+Aliases: dsa housing, democratic socialists housing, dsa supply skepticism, dsa anti-market housing, dsa marxist takeover, dsa housing resolution, engels housing question dsa, dsa factional composition, red star caucus, bread and roses caucus
+
+## political-landscape / housing-advocacy / yimby / social-housing / left-yimby / housing-supply / tenant-protections
+
+**left-yimby-coalition** → [left-yimby-coalition](articles/political-landscape/left-yimby-coalition.md)
+Skills: _(none)_
+Aliases: left yimby, yimby socialism, supply-side socialism, progressive housing coalition, mamdani housing, raman housing, social democratic housing, pro-housing left, housing coalition map
+
+## political-landscape / housing-advocacy / social-democracy / democratic-socialism / international-comparison
+
+**us-social-democracy-gap** → [us-social-democracy-gap](articles/political-landscape/us-social-democracy-gap.md)
+Skills: _(none)_
+Aliases: social democracy america, us social democracy, american left dysfunction, european critique american left, sewer socialism, why no social democracy america, two party left problem, american socialism vs european
+
+## pra-strategy / government-transparency / enforcement-strategy / housing-accountability
 
 **cpra-compliance** → [cpra-compliance](articles/pra-strategy/cpra-compliance.md)
 Skills: draft-pra-request
 Aliases: public records act, cpra request, pra strategy, california public records
+
+## transportation-safety / automated-enforcement / red-light-cameras / speed-cameras / vision-zero
+
+**automated-enforcement-evidence** → [automated-enforcement-evidence](articles/transportation-safety/automated-enforcement-evidence.md)
+Skills: evaluate-crash-study
+Aliases: red light cameras, speed cameras, photo enforcement, automated speed enforcement, section control, SB 720
 
 ## transportation-safety / vision-zero / complete-streets / crash-data
 

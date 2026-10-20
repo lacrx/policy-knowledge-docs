@@ -1,7 +1,10 @@
 # Policy Knowledge Base Agent Instructions
 
-## When to Fetch
-Fetch KB content when the task involves: ca-housing-law, land-use-analysis, transportation-safety, municipal-fiscal, pra-strategy, rhna-compliance, obstruction-patterns, sb-79, density-bonus, adu-law, housing-element, vision-zero, complete-streets, crash-data.
+## When to Fetch (Continuous)
+Fetch whenever the task touches: ca-housing-law, land-use-analysis, transportation-safety, municipal-fiscal, pra-strategy, political-landscape, housing-advocacy, rhna-compliance, obstruction-patterns, sb-79, density-bonus, adu-law, housing-element, vision-zero, complete-streets, crash-data, dsa, left-yimby, social-democracy, democratic-socialism.
+
+Unlike engineering knowledge bases (fetched once during planning), this KB is a **runtime reference** — fetch articles and skills during extractions, analysis, drafting, evaluation, or any policy-adjacent work. Not just at session start.
+
 If the task does not involve these topics, skip KB lookup entirely.
 
 ## How to Fetch

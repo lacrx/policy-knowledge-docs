@@ -12,8 +12,8 @@
 | housing-advocacy, housing-policy, social-housing, zoning-reform, tenant-protections, housing-supply, construction-costs, public-land-banking, housing-first, ethnic-integration | [complete-housing-position](articles/housing-advocacy/complete-housing-position.md) | _(none)_ |
 | housing-advocacy, international-housing, housing-crisis, yimby, rent-regulation, zoning-reform | [europe-vs-us-housing-crisis](articles/housing-advocacy/europe-vs-us-housing-crisis.md) | _(none)_ |
 | housing-advocacy, rent-regulation, international-housing, policy-comparison | [european-rent-regulation-reference](articles/housing-advocacy/european-rent-regulation-reference.md) | _(none)_ |
-| housing-advocacy, yimby, zoning-reform, tenant-protections, housing-supply | [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md) | _(none)_ |
 | housing-advocacy, housing-supply, supply-skepticism, filtering, vacancy-chains, gentrification, displacement, zoning-reform, affordability | [supply-skepticism-rebuttal](articles/housing-advocacy/supply-skepticism-rebuttal.md) | _(none)_ |
+| housing-advocacy, yimby, zoning-reform, tenant-protections, housing-supply | [yimby-policy-framework](articles/housing-advocacy/yimby-policy-framework.md) | _(none)_ |
 | housing-models, social-housing, international-housing, homelessness, housing-first, public-land-banking | [finland-housing-model](articles/housing-models/finland-housing-model.md) | _(none)_ |
 | housing-models, zoning-reform, international-housing, housing-supply, construction-costs, housing-depreciation, prefab-housing | [japan-housing-model](articles/housing-models/japan-housing-model.md) | _(none)_ |
 | housing-models, rent-regulation, housing-supply, international-housing, zoning-reform, missing-middle | [montreal-housing-model](articles/housing-models/montreal-housing-model.md) | _(none)_ |
@@ -22,8 +22,11 @@
 | housing-models, rent-regulation, international-housing, construction-innovation, cautionary-tale | [sweden-housing-model](articles/housing-models/sweden-housing-model.md) | _(none)_ |
 | housing-models, social-housing, vienna-model, international-housing, rent-regulation, public-land-banking | [vienna-model](articles/housing-models/vienna-model.md) | _(none)_ |
 | apr-methodology, housing-proposals, land-use-analysis | [apr-proposal-estimation](articles/land-use-analysis/apr-proposal-estimation.md) | _(none)_ |
-| land-use-analysis, municipal-fiscal | [fiscal-productivity](articles/land-use-analysis/fiscal-productivity.md) | [fetch-policy-bundle](skills/fetch-policy-bundle.md) |
+| land-use-analysis, municipal-fiscal, density, infrastructure-costs, fiscal-impact, sprawl-economics | [fiscal-productivity](articles/land-use-analysis/fiscal-productivity.md) | [fetch-policy-bundle](skills/fetch-policy-bundle.md) |
 | land-use-analysis, density-caps, permit-analysis, obstruction-patterns, policy-impact | [policy-impact-filing-analysis](articles/land-use-analysis/policy-impact-filing-analysis.md) | _(none)_ |
-| pra-strategy | [cpra-compliance](articles/pra-strategy/cpra-compliance.md) | [draft-pra-request](skills/draft-pra-request.md) |
+| political-landscape, housing-advocacy, supply-skepticism, social-housing, democratic-socialism, dsa | [dsa-housing-ideology](articles/political-landscape/dsa-housing-ideology.md) | _(none)_ |
+| political-landscape, housing-advocacy, yimby, social-housing, left-yimby, housing-supply, tenant-protections | [left-yimby-coalition](articles/political-landscape/left-yimby-coalition.md) | _(none)_ |
+| political-landscape, housing-advocacy, social-democracy, democratic-socialism, international-comparison | [us-social-democracy-gap](articles/political-landscape/us-social-democracy-gap.md) | _(none)_ |
+| pra-strategy, government-transparency, enforcement-strategy, housing-accountability | [cpra-compliance](articles/pra-strategy/cpra-compliance.md) | [draft-pra-request](skills/draft-pra-request.md) |
+| transportation-safety, automated-enforcement, red-light-cameras, speed-cameras, vision-zero | [automated-enforcement-evidence](articles/transportation-safety/automated-enforcement-evidence.md) | [evaluate-crash-study](skills/evaluate-crash-study.md) |
 | transportation-safety, vision-zero, complete-streets, crash-data | [crash-data-methodology](articles/transportation-safety/crash-data-methodology.md) | [evaluate-crash-study](skills/evaluate-crash-study.md) |
-| transportation-safety, automated-enforcement, red-light-cameras, speed-cameras, vision-zero | [automated-enforcement-evidence](articles/transportation-safety/automated-enforcement-evidence.md) | [evaluate-enforcement-claim](skills/evaluate-enforcement-claim.md) |
