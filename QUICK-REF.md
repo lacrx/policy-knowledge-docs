@@ -8,6 +8,9 @@
 | building-safety, fire-safety, building-codes, density-safety, housing-advocacy | [building-safety-by-type](articles/building-safety/building-safety-by-type.md) | _(none)_ |
 | ca-housing-law, rhna-compliance, sb-79, density-bonus, housing-element, adu-law, obstruction-patterns | [ca-housing-enforcement](articles/ca-housing-law/ca-housing-enforcement.md) | [draft-pra-request](skills/draft-pra-request.md) |
 | ca-housing-law, rhna-compliance, housing-element, obstruction-patterns | [rezoning-compliance](articles/ca-housing-law/rezoning-compliance.md) | [draft-pra-request](skills/draft-pra-request.md) |
+| coastal-zone, density-caps, coastal-act, density-bonus, sb-330, lcp-compliance, obstruction-patterns | [oceanside-density-cap-lcpa](articles/coastal-zone/oceanside-density-cap-lcpa.md) | _(none)_ |
+| coastal-zone, density-caps, policy-impact, obstruction-patterns, coastal-act, sb-79, fiscal-impact, housing-supply | [oceanside-density-cap-findings](articles/coastal-zone/oceanside-density-cap-findings.md) | _(none)_ |
+| coastal-zone, inclusionary-housing, coastal-act, lcp-compliance, obstruction-patterns | [oceanside-inclusionary-housing](articles/coastal-zone/oceanside-inclusionary-housing.md) | _(none)_ |
 | fiscal-policy, land-value-tax, housing-finance, property-tax-reform, georgism, anti-speculation | [land-value-tax](articles/fiscal-policy/land-value-tax.md) | _(none)_ |
 | housing-advocacy, housing-policy, social-housing, zoning-reform, tenant-protections, housing-supply, construction-costs, public-land-banking, housing-first, ethnic-integration | [complete-housing-position](articles/housing-advocacy/complete-housing-position.md) | _(none)_ |
 | housing-advocacy, international-housing, housing-crisis, yimby, rent-regulation, zoning-reform | [europe-vs-us-housing-crisis](articles/housing-advocacy/europe-vs-us-housing-crisis.md) | _(none)_ |
