@@ -12,6 +12,7 @@
 | coastal-zone, density-caps, policy-impact, obstruction-patterns, coastal-act, sb-79, fiscal-impact, housing-supply | [oceanside-density-cap-findings](articles/coastal-zone/oceanside-density-cap-findings.md) | _(none)_ |
 | coastal-zone, inclusionary-housing, coastal-act, lcp-compliance, obstruction-patterns | [oceanside-inclusionary-housing](articles/coastal-zone/oceanside-inclusionary-housing.md) | _(none)_ |
 | fiscal-policy, land-value-tax, housing-finance, property-tax-reform, georgism, anti-speculation | [land-value-tax](articles/fiscal-policy/land-value-tax.md) | _(none)_ |
+| fiscal-policy, tax-policy, housing-finance, impact-fees, sales-tax, prop-13, transfer-tax, fiscalization, housing-supply | [tax-policy-housing](articles/fiscal-policy/tax-policy-housing.md) | _(none)_ |
 | housing-advocacy, housing-policy, social-housing, zoning-reform, tenant-protections, housing-supply, construction-costs, public-land-banking, housing-first, ethnic-integration | [complete-housing-position](articles/housing-advocacy/complete-housing-position.md) | _(none)_ |
 | housing-advocacy, international-housing, housing-crisis, yimby, rent-regulation, zoning-reform | [europe-vs-us-housing-crisis](articles/housing-advocacy/europe-vs-us-housing-crisis.md) | _(none)_ |
 | housing-advocacy, rent-regulation, international-housing, policy-comparison | [european-rent-regulation-reference](articles/housing-advocacy/european-rent-regulation-reference.md) | _(none)_ |
