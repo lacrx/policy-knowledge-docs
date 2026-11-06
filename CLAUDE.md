@@ -8,8 +8,9 @@ Unlike engineering knowledge bases (fetched once during planning), this KB is a 
 If the task does not involve these topics, skip KB lookup entirely.
 
 ## How to Fetch
-Fetch files with: `gh api repos/lacrx/policy-knowledge-docs/contents/{path}?ref=main -H "Accept: application/vnd.github.raw+json"`
+Fetch files with: `gh api repos/lacrx/policy-knowledge-docs/contents/{path} -H "Accept: application/vnd.github.raw+json"`
 Never clone the repo. One command per file.
+The default branch is `master` (there is no `main`); without `?ref=` GitHub uses it. On neo and workhorse the `consult-knowledge-bases` skill handles this: `~/.claude/skills/consult-knowledge-bases/kb route "<task>"`, then `kb get policy <path>`.
 
 ## Discovery Flow
 1. Fetch `QUICK-REF.md` first. Find the row matching the task's topic.
