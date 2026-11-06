@@ -32,11 +32,11 @@ alwaysApply: false
 Fetch files directly via the GitHub API. Never clone the repo.
 ```bash
 # Quick-reference index
-gh api repos/lacrx/policy-knowledge-docs/contents/QUICK-REF.md?ref=main -H "Accept: application/vnd.github.raw+json"
+gh api repos/lacrx/policy-knowledge-docs/contents/QUICK-REF.md -H "Accept: application/vnd.github.raw+json"
 # An article
-gh api repos/lacrx/policy-knowledge-docs/contents/articles/ca-housing-law/enforcement-pipeline.md?ref=main -H "Accept: application/vnd.github.raw+json"
+gh api repos/lacrx/policy-knowledge-docs/contents/articles/ca-housing-law/enforcement-pipeline.md -H "Accept: application/vnd.github.raw+json"
 # A skill
-gh api repos/lacrx/policy-knowledge-docs/contents/skills/evaluate-sb79-compliance.md?ref=main -H "Accept: application/vnd.github.raw+json"
+gh api repos/lacrx/policy-knowledge-docs/contents/skills/evaluate-sb79-compliance.md -H "Accept: application/vnd.github.raw+json"
 ```
 **Discovery flow**: Fetch `QUICK-REF.md` → find matching row → fetch linked article or skill. If no match, try `TOPIC-INDEX.md`. If still no match, note "not covered" and continue.
 
